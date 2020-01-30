@@ -30,7 +30,6 @@ const getWordsInfo = words => {
 
 // const words = get20kWords().slice(0, 100);
 const words = getWordsFromText();
-// const words = ['maniac'];
 
 getWordsInfo(words);
 
