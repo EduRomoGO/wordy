@@ -2,33 +2,2266 @@
   "audioDescriptors": [
     {
       "word": "bakery",
+      "phonemics": "/ˈbeɪkəri/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a place where baked goods are made or sold.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a place where baked goods are made.",
+              "examples": []
+            }
+          ]
+        }
+      ],
       "protocol": "https",
       "extension": "mp3",
       "url": "https://www.wordreference.com/audio/en/uk/general/en006231.mp3"
     },
     {
       "word": "swim",
+      "phonemics": "/ˈswɪm/",
+      "definitions": [
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": " to move in water by using the limbs, fins, tail, etc.",
+              "examples": []
+            },
+            {
+              "def": " to move along in or cross (a body of water) this way.",
+              "examples": []
+            },
+            {
+              "def": " to be filled or flooded with a liquid:",
+              "examples": [
+                "[~ + with + object]eyes swimming with tears."
+              ]
+            },
+            {
+              "def": " to be dizzy or giddy;",
+              "examples": [
+                "[no object]My head began to swim."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "an act, instance, or period of swimming.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": " alert to current affairs, social activities, etc.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to move in water by movements of the limbs, fins, tail, etc.",
+              "examples": []
+            },
+            {
+              "def": "to float on the surface of water or some other liquid.",
+              "examples": []
+            },
+            {
+              "def": "to move, rest, or be suspended in air as if swimming in water.",
+              "examples": []
+            },
+            {
+              "def": "to move, glide, or go smoothly over a surface.",
+              "examples": []
+            },
+            {
+              "def": "to be immersed or steeped in or overflowing or flooded with a liquid:",
+              "examples": [
+                "eyes swimming with tears."
+              ]
+            },
+            {
+              "def": "to be dizzy or giddy;",
+              "examples": [
+                "My head began to swim."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "to move along in or cross (a body of water) by swimming:",
+              "examples": [
+                "to swim a lake."
+              ]
+            },
+            {
+              "def": "to perform (a particular stroke) in swimming:",
+              "examples": [
+                "to swim a sidestroke."
+              ]
+            },
+            {
+              "def": "to cause to swim or float, as on a stream.",
+              "examples": []
+            },
+            {
+              "def": "to furnish with sufficient water to swim or float.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "an act, instance, or period of swimming.",
+              "examples": []
+            },
+            {
+              "def": "a motion as of swimming;",
+              "examples": []
+            },
+            {
+              "def": " alert to or actively engaged in events;",
+              "examples": [
+                "Despite her age, she is still in the swim."
+              ]
+            }
+          ]
+        }
+      ],
       "protocol": "https",
       "extension": "mp3",
       "url": "https://www.wordreference.com/audio/en/uk/general/en087318.mp3"
     },
     {
-      "word": "blue",
-      "protocol": "https",
-      "extension": "mp3",
-      "url": "https://www.wordreference.com/audio/en/uk/general/en009029.mp3"
-    },
-    {
       "word": "school",
+      "phonemics": "/ˈskuːl/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a place for teaching people under college age: ",
+              "examples": [
+                "[countable]His children went to a private school.",
+                "[uncountable]Are your children old enough to go to school?"
+              ]
+            },
+            {
+              "def": "a college or university: ",
+              "examples": [
+                "[countable]Yale is a prestigious school.",
+                "[uncountable]He went to school at Yale."
+              ]
+            },
+            {
+              "def": " an academic department for instruction in a particular field:",
+              "examples": [
+                "[countable]the school of liberal arts and sciences."
+              ]
+            },
+            {
+              "def": "a program of studies: ",
+              "examples": [
+                "[uncountable]He's studying in art school.",
+                "[countable]He's enrolled in an art school."
+              ]
+            },
+            {
+              "def": " the activity of teaching or of learning under instruction:",
+              "examples": [
+                "[uncountable]School doesn't start until September."
+              ]
+            },
+            {
+              "def": " the body of people belonging to an educational institution:",
+              "examples": [
+                "[countable]The whole school applauded."
+              ]
+            },
+            {
+              "def": " a group of pupils having a certain master, system, etc.:",
+              "examples": [
+                "[countable]the Platonic school of philosophy."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "of or connected with a school or schools.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to educate in or as if in a school;",
+              "examples": [
+                "schooled him in magic and sorcery."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a large number of fish, porpoises, etc., feeding or traveling together.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to form into, or go in, a school, such as fish.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "an institution where instruction is given, esp. to persons under college age:",
+              "examples": [
+                "The children are at school."
+              ]
+            },
+            {
+              "def": "an institution for instruction in a particular skill or field.",
+              "examples": []
+            },
+            {
+              "def": "a college or university.",
+              "examples": []
+            },
+            {
+              "def": "a regular course of meetings of a teacher or teachers and students for instruction;",
+              "examples": [
+                "summer school."
+              ]
+            },
+            {
+              "def": "a session of such a course:",
+              "examples": [
+                "no school today; to be kept after school."
+              ]
+            },
+            {
+              "def": "the activity or process of learning under instruction, esp. at a school for the young:",
+              "examples": [
+                "As a child, I never liked school."
+              ]
+            },
+            {
+              "def": "one's formal education:",
+              "examples": [
+                "They plan to be married when he finishes school."
+              ]
+            },
+            {
+              "def": "a building housing a school.",
+              "examples": []
+            },
+            {
+              "def": "the body of students, or students and teachers, belonging to an educational institution:",
+              "examples": [
+                "The entire school rose when the principal entered the auditorium."
+              ]
+            },
+            {
+              "def": "a building, room, etc., in a university, set apart for the use of one of the faculties or for some particular purpose:",
+              "examples": [
+                "the school of agriculture."
+              ]
+            },
+            {
+              "def": "a particular faculty or department of a university having the right to recommend candidates for degrees, and usually beginning its program of instruction after the student has completed general education:",
+              "examples": [
+                "medical school."
+              ]
+            },
+            {
+              "def": "any place, situation, etc., tending to teach anything.",
+              "examples": []
+            },
+            {
+              "def": "the body of pupils or followers of a master, system, method, etc.:",
+              "examples": [
+                "the Platonic school of philosophy."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": [
+                "the modern school; the Florentine school.",
+                "the French school."
+              ]
+            },
+            {
+              "def": "any group of persons having common attitudes or beliefs.",
+              "examples": []
+            },
+            {
+              "def": "parts of close-order drill applying to the individual ",
+              "examples": []
+            },
+            {
+              "def": "a group of people gathered together, esp. for gambling or drinking.",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": "the schoolmen in a medieval university.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "of or connected with a school or schools.",
+              "examples": []
+            },
+            {
+              "def": "of the schoolmen.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to educate in or as if in a school;",
+              "examples": []
+            },
+            {
+              "def": "to reprimand.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "a large number of fish, porpoises, whales, or the like, feeding or migrating together.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to form into, or go in, a school, as fish.",
+              "examples": []
+            }
+          ]
+        }
+      ],
       "protocol": "https",
       "extension": "mp3",
       "url": "https://www.wordreference.com/audio/en/uk/general/en075755.mp3"
     },
     {
       "word": "clear",
+      "phonemics": "/ˈklɪə",
+      "definitions": [
+        {
+          "class": "adj. and adv.,",
+          "defs": [
+            {
+              "def": "free from darkness or cloudiness: ",
+              "examples": [
+                "a clear day."
+              ]
+            },
+            {
+              "def": "transparent: ",
+              "examples": [
+                "The water was clear when we went snorkeling."
+              ]
+            },
+            {
+              "def": "without stains, defect, or blemish:",
+              "examples": [
+                "She had very clear skin."
+              ]
+            },
+            {
+              "def": "of a pure, even color:",
+              "examples": [
+                "a clear yellow."
+              ]
+            },
+            {
+              "def": "easily seen;",
+              "examples": [
+                "a clear outline."
+              ]
+            },
+            {
+              "def": "easily heard: ",
+              "examples": [
+                "the clear sound of the church bells."
+              ]
+            },
+            {
+              "def": "free from hoarse, harsh, or rasping qualities: ",
+              "examples": [
+                "She spoke in a loud, clear voice."
+              ]
+            },
+            {
+              "def": "easily understood;",
+              "examples": [
+                " The alternatives are clear: fight or lose."
+              ]
+            },
+            {
+              "def": "entirely understandable;",
+              "examples": []
+            },
+            {
+              "def": "distinct;",
+              "examples": [
+                "a clear case of cheating."
+              ]
+            },
+            {
+              "def": "free from confusion, uncertainty, or doubt: ",
+              "examples": [
+                " Her clear thinking got us out of danger."
+              ]
+            },
+            {
+              "def": "free from blame or guilt:",
+              "examples": [
+                "I have a clear conscience."
+              ]
+            },
+            {
+              "def": "calm;",
+              "examples": [
+                "Her clear eyes looked back at me steadily."
+              ]
+            },
+            {
+              "def": "free from obstructions or obstacles;",
+              "examples": []
+            },
+            {
+              "def": " free from contact with;",
+              "examples": [
+                "He kept clear of her after the argument."
+              ]
+            },
+            {
+              "def": "complete;",
+              "examples": [
+                "a clear victory for our side."
+              ]
+            },
+            {
+              "def": "free from obligation, liability, or debt:",
+              "examples": [
+                " a return of 4 percent, clear of taxes."
+              ]
+            },
+            {
+              "def": "without deduction;",
+              "examples": [
+                "a clear profit of $1,000."
+              ]
+            },
+            {
+              "def": "in a clear or distinct manner;",
+              "examples": [
+                "He could hear me loud and clear."
+              ]
+            },
+            {
+              "def": "so as not to be in contact with or near;",
+              "examples": [
+                "Stand clear of the closing doors."
+              ]
+            },
+            {
+              "def": "entirely;",
+              "examples": [
+                "to cut a piece clear off."
+              ]
+            },
+            {
+              "def": " to remove people or objects from (something):",
+              "examples": [
+                "[~ + object (+ of + object)]to clear the table of dishes."
+              ]
+            },
+            {
+              "def": " to remove (people or objects): ",
+              "examples": [
+                "Clear the dishes off the table."
+              ]
+            },
+            {
+              "def": "to (cause to) become clear, clean, transparent: ",
+              "examples": [
+                "[no object]The sky cleared.",
+                "[~ + object]This lotion will clear the blemishes from your skin."
+              ]
+            },
+            {
+              "def": "to (cause to) become free of confusion, doubt, or uncertainty: ",
+              "examples": [
+                "[~ + object]to clear the mind.",
+                "[no object]Her mind cleared and she knew what she had to do."
+              ]
+            },
+            {
+              "def": "to (cause to) make (something) understandable;",
+              "examples": [
+                "[~ + object]Her reply cleared the confusion.",
+                "[no object]The confusion cleared and we knew what we had to do."
+              ]
+            },
+            {
+              "def": " to make or construct (a path, etc.) by removing obstacles:",
+              "examples": [
+                "[~ + object]The huge snowplows cleared the road."
+              ]
+            },
+            {
+              "def": " to remove trees or other obstructions from (land), such as for farming:",
+              "examples": [
+                "[~ + object]The settlers cleared the land for farming."
+              ]
+            },
+            {
+              "def": " to eat all the food on: ",
+              "examples": [
+                "to clear one's plate."
+              ]
+            },
+            {
+              "def": " to make a dry, scraping noise in (the throat) by forcing air through, often to express disapproval or to attract attention:",
+              "examples": [
+                "[~ + object]He coughed but he couldn't clear his throat."
+              ]
+            },
+            {
+              "def": " to free of anything suggesting disgrace: ",
+              "examples": [
+                "She fought to clear her name."
+              ]
+            },
+            {
+              "def": " to free (a person accused of something) from suspicion or guilt: ",
+              "examples": [
+                "The jury cleared the defendant of the charge."
+              ]
+            },
+            {
+              "def": " to pass by or over without contact: ",
+              "examples": [
+                "The ship cleared the reef."
+              ]
+            },
+            {
+              "def": " to pass through or away from: ",
+              "examples": [
+                "The bill cleared the Senate."
+              ]
+            },
+            {
+              "def": "(of a check) to (cause to) go through the banking system and be accepted for payment: ",
+              "examples": [
+                "[no object]took five days for our check to clear.",
+                "[~ + object]Can't they clear this check any faster?"
+              ]
+            },
+            {
+              "def": " (of mail, etc.) to process, etc.:",
+              "examples": [
+                "[~ + object]We clear over ten thousand such requests a day."
+              ]
+            },
+            {
+              "def": " to gain as clear profit:",
+              "examples": [
+                "[~ + object]to clear $1,000 in a transaction."
+              ]
+            },
+            {
+              "def": " to receive official permission before taking action on (a plan):",
+              "examples": [
+                "[~ + object]had to clear the plan with headquarters."
+              ]
+            },
+            {
+              "def": " to give clearance to;",
+              "examples": [
+                "[~ + object]The tower cleared the plane for takeoff."
+              ]
+            },
+            {
+              "def": " to free (a ship, etc.) by satisfying customs:",
+              "examples": [
+                "[~ + object]Customs cleared the ship and allowed it to unload."
+              ]
+            },
+            {
+              "def": " to jump (a specific height or distance): ",
+              "examples": [
+                "He cleared six feet in the high jump."
+              ]
+            },
+            {
+              "def": " to disappear;",
+              "examples": [
+                "[no object]These problems will clear shortly."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[no object]The storm clouds cleared away.",
+                "[~ + object + away]The sun cleared the clouds away.",
+                "[~ + away + object]The sun cleared away the clouds.",
+                "[~ + away/off + object]She cleared off the books from her desk.",
+                "[~ + object + away/off]She cleared them away."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[~ + out + object]Clear out the closet.",
+                "[~ + object + out]to clear it out.",
+                "[~ + out + object]Clear out the mess in your room.",
+                "[~ + object + out]Clear it out, now!",
+                "Clear out, and don't come back!",
+                "[~ + out + object]First we'll have to clear out the enemy from the territory.",
+                "[~ + object + out]We'll have to clear them out first."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[~ + up + object]Let me see if I can clear up this misunderstanding.",
+                "[~ + object + up]Let's see if we can clear this mystery up.",
+                "[~ + up + object]Can you clear up this mess?",
+                "[~ + object + up]Can you clear it up?"
+              ]
+            },
+            {
+              "def": " to get rid of feelings of anger or distrust by discussing them openly:",
+              "examples": [
+                "The two decided to meet and clear the air before their dispute got worse."
+              ]
+            },
+            {
+              "def": " free from danger, blame, or guilt:",
+              "examples": [
+                "I was finally in the clear after I proved I was right."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "free from darkness or cloudiness: ",
+              "examples": [
+                "a clear day."
+              ]
+            },
+            {
+              "def": "transparent: ",
+              "examples": [
+                "The water was clear when we went snorkeling."
+              ]
+            },
+            {
+              "def": "without stains, defect, or blemish:",
+              "examples": [
+                "She had very clear skin."
+              ]
+            },
+            {
+              "def": "of a pure, even color:",
+              "examples": [
+                "a clear yellow."
+              ]
+            },
+            {
+              "def": "easily seen;",
+              "examples": [
+                "a clear outline."
+              ]
+            },
+            {
+              "def": "easily heard: ",
+              "examples": [
+                "the clear sound of the church bells."
+              ]
+            },
+            {
+              "def": "free from hoarse, harsh, or rasping qualities: ",
+              "examples": [
+                "She spoke in a loud, clear voice."
+              ]
+            },
+            {
+              "def": "easily understood;",
+              "examples": [
+                " The alternatives are clear: fight or lose."
+              ]
+            },
+            {
+              "def": "entirely understandable;",
+              "examples": []
+            },
+            {
+              "def": "distinct;",
+              "examples": [
+                "a clear case of cheating."
+              ]
+            },
+            {
+              "def": "free from confusion, uncertainty, or doubt: ",
+              "examples": [
+                " Her clear thinking got us out of danger."
+              ]
+            },
+            {
+              "def": "free from blame or guilt:",
+              "examples": [
+                "I have a clear conscience."
+              ]
+            },
+            {
+              "def": "calm;",
+              "examples": [
+                "Her clear eyes looked back at me steadily."
+              ]
+            },
+            {
+              "def": "free from obstructions or obstacles;",
+              "examples": []
+            },
+            {
+              "def": " free from contact with;",
+              "examples": [
+                "He kept clear of her after the argument."
+              ]
+            },
+            {
+              "def": "complete;",
+              "examples": [
+                "a clear victory for our side."
+              ]
+            },
+            {
+              "def": "free from obligation, liability, or debt:",
+              "examples": [
+                " a return of 4 percent, clear of taxes."
+              ]
+            },
+            {
+              "def": "without deduction;",
+              "examples": [
+                "a clear profit of $1,000."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "in a clear or distinct manner;",
+              "examples": [
+                "He could hear me loud and clear."
+              ]
+            },
+            {
+              "def": "so as not to be in contact with or near;",
+              "examples": [
+                "Stand clear of the closing doors."
+              ]
+            },
+            {
+              "def": "entirely;",
+              "examples": [
+                "to cut a piece clear off."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": " to remove people or objects from (something):",
+              "examples": [
+                "[~ + object (+ of + object)]to clear the table of dishes."
+              ]
+            },
+            {
+              "def": " to remove (people or objects): ",
+              "examples": [
+                "Clear the dishes off the table."
+              ]
+            },
+            {
+              "def": "to (cause to) become clear, clean, transparent: ",
+              "examples": [
+                "[no object]The sky cleared.",
+                "[~ + object]This lotion will clear the blemishes from your skin."
+              ]
+            },
+            {
+              "def": "to (cause to) become free of confusion, doubt, or uncertainty: ",
+              "examples": [
+                "[~ + object]to clear the mind.",
+                "[no object]Her mind cleared and she knew what she had to do."
+              ]
+            },
+            {
+              "def": "to (cause to) make (something) understandable;",
+              "examples": [
+                "[~ + object]Her reply cleared the confusion.",
+                "[no object]The confusion cleared and we knew what we had to do."
+              ]
+            },
+            {
+              "def": " to make or construct (a path, etc.) by removing obstacles:",
+              "examples": [
+                "[~ + object]The huge snowplows cleared the road."
+              ]
+            },
+            {
+              "def": " to remove trees or other obstructions from (land), such as for farming:",
+              "examples": [
+                "[~ + object]The settlers cleared the land for farming."
+              ]
+            },
+            {
+              "def": " to eat all the food on: ",
+              "examples": [
+                "to clear one's plate."
+              ]
+            },
+            {
+              "def": " to make a dry, scraping noise in (the throat) by forcing air through, often to express disapproval or to attract attention:",
+              "examples": [
+                "[~ + object]He coughed but he couldn't clear his throat."
+              ]
+            },
+            {
+              "def": " to free of anything suggesting disgrace: ",
+              "examples": [
+                "She fought to clear her name."
+              ]
+            },
+            {
+              "def": " to free (a person accused of something) from suspicion or guilt: ",
+              "examples": [
+                "The jury cleared the defendant of the charge."
+              ]
+            },
+            {
+              "def": " to pass by or over without contact: ",
+              "examples": [
+                "The ship cleared the reef."
+              ]
+            },
+            {
+              "def": " to pass through or away from: ",
+              "examples": [
+                "The bill cleared the Senate."
+              ]
+            },
+            {
+              "def": "(of a check) to (cause to) go through the banking system and be accepted for payment: ",
+              "examples": [
+                "[no object]took five days for our check to clear.",
+                "[~ + object]Can't they clear this check any faster?"
+              ]
+            },
+            {
+              "def": " (of mail, etc.) to process, etc.:",
+              "examples": [
+                "[~ + object]We clear over ten thousand such requests a day."
+              ]
+            },
+            {
+              "def": " to gain as clear profit:",
+              "examples": [
+                "[~ + object]to clear $1,000 in a transaction."
+              ]
+            },
+            {
+              "def": " to receive official permission before taking action on (a plan):",
+              "examples": [
+                "[~ + object]had to clear the plan with headquarters."
+              ]
+            },
+            {
+              "def": " to give clearance to;",
+              "examples": [
+                "[~ + object]The tower cleared the plane for takeoff."
+              ]
+            },
+            {
+              "def": " to free (a ship, etc.) by satisfying customs:",
+              "examples": [
+                "[~ + object]Customs cleared the ship and allowed it to unload."
+              ]
+            },
+            {
+              "def": " to jump (a specific height or distance): ",
+              "examples": [
+                "He cleared six feet in the high jump."
+              ]
+            },
+            {
+              "def": " to disappear;",
+              "examples": [
+                "[no object]These problems will clear shortly."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[no object]The storm clouds cleared away.",
+                "[~ + object + away]The sun cleared the clouds away.",
+                "[~ + away + object]The sun cleared away the clouds.",
+                "[~ + away/off + object]She cleared off the books from her desk.",
+                "[~ + object + away/off]She cleared them away."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[~ + out + object]Clear out the closet.",
+                "[~ + object + out]to clear it out.",
+                "[~ + out + object]Clear out the mess in your room.",
+                "[~ + object + out]Clear it out, now!",
+                "Clear out, and don't come back!",
+                "[~ + out + object]First we'll have to clear out the enemy from the territory.",
+                "[~ + object + out]We'll have to clear them out first."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[~ + up + object]Let me see if I can clear up this misunderstanding.",
+                "[~ + object + up]Let's see if we can clear this mystery up.",
+                "[~ + up + object]Can you clear up this mess?",
+                "[~ + object + up]Can you clear it up?"
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": " to get rid of feelings of anger or distrust by discussing them openly:",
+              "examples": [
+                "The two decided to meet and clear the air before their dispute got worse."
+              ]
+            },
+            {
+              "def": " free from danger, blame, or guilt:",
+              "examples": [
+                "I was finally in the clear after I proved I was right."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.,",
+          "defs": [
+            {
+              "def": "free from darkness, obscurity, or cloudiness;",
+              "examples": [
+                "a clear day."
+              ]
+            },
+            {
+              "def": "transparent;",
+              "examples": [
+                "clear water."
+              ]
+            },
+            {
+              "def": "without discoloration, defect, or blemish:",
+              "examples": [
+                "a clear complexion; a clear pane of glass."
+              ]
+            },
+            {
+              "def": "of a pure, even color:",
+              "examples": [
+                "a clear yellow."
+              ]
+            },
+            {
+              "def": "easily seen;",
+              "examples": [
+                "a clear outline."
+              ]
+            },
+            {
+              "def": "distinctly perceptible to the ear;",
+              "examples": [
+                "a clear sound."
+              ]
+            },
+            {
+              "def": "free from hoarse, harsh, or rasping qualities:",
+              "examples": [
+                "a clear voice; clear as a bell."
+              ]
+            },
+            {
+              "def": "easily understood;",
+              "examples": [
+                "clear, concise answers."
+              ]
+            },
+            {
+              "def": "entirely comprehensible;",
+              "examples": [
+                "The ultimate causes of inflation may never be clear."
+              ]
+            },
+            {
+              "def": "distinct;",
+              "examples": [
+                "a clear case of misbehavior."
+              ]
+            },
+            {
+              "def": "free from confusion, uncertainty, or doubt:",
+              "examples": [
+                "clear thinking."
+              ]
+            },
+            {
+              "def": "perceiving or discerning distinctly:",
+              "examples": [
+                "a clear mind."
+              ]
+            },
+            {
+              "def": "convinced;",
+              "examples": [
+                "He was not clear on the first point that she made but agreed with the others."
+              ]
+            },
+            {
+              "def": "free from anything that would disturb or blame:",
+              "examples": [
+                "a clear conscience."
+              ]
+            },
+            {
+              "def": "free from suspicion of guilt or complicity:",
+              "examples": [
+                "She was entirely clear of the crime until one of her accomplices turned informer."
+              ]
+            },
+            {
+              "def": "serene;",
+              "examples": [
+                "a clear brow."
+              ]
+            },
+            {
+              "def": "free from obstructions or obstacles;",
+              "examples": [
+                "a clear view; a clear path."
+              ]
+            },
+            {
+              "def": "free from entanglement or contact:",
+              "examples": [
+                "He kept clear of her after the argument. She managed to keep her dress clear of the mud."
+              ]
+            },
+            {
+              "def": "without limitation or qualification;",
+              "examples": [
+                "a clear victory."
+              ]
+            },
+            {
+              "def": "free from obligation, liability, or debt:",
+              "examples": [
+                "After twenty years, our house is clear of the mortgage. Municipal bonds were returning as much as 9 percent, clear of taxes."
+              ]
+            },
+            {
+              "def": "without deduction or diminution:",
+              "examples": [
+                "a clear $1000 after taxes."
+              ]
+            },
+            {
+              "def": "freed or emptied of contents, cargo, etc.",
+              "examples": []
+            },
+            {
+              "def": "(of tree trunks or timber) free from branches, knots, or other protruding or rough parts:",
+              "examples": [
+                "The trunk was clear for 20 feet above the ground."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "(in cryptography) not coded or enciphered. Cf.  ",
+              "examples": []
+            },
+            {
+              "def": "bright;",
+              "examples": [
+                "a clear flame."
+              ]
+            },
+            {
+              "def": "illustrious.",
+              "examples": []
+            },
+            {
+              "def": "in a clear or distinct manner;",
+              "examples": []
+            },
+            {
+              "def": "so as not to be in contact with or near;",
+              "examples": [
+                "Stand clear of the closing doors."
+              ]
+            },
+            {
+              "def": "entirely;",
+              "examples": [
+                "to cut a piece clear off;",
+                "to climb clear to the top;",
+                "to run clear off the road."
+              ]
+            },
+            {
+              "def": "to remove people or objects from (usually fol. by ",
+              "examples": [
+                "to clear a courtroom of photographers; to clear the table of dishes."
+              ]
+            },
+            {
+              "def": "to remove (people or objects) (usually fol. by ",
+              "examples": [
+                "to clear the photographers from the courtroom; to clear the dishes from the table."
+              ]
+            },
+            {
+              "def": "to make clear, transparent, or pellucid;",
+              "examples": [
+                "to clear a liquid by means of a filter."
+              ]
+            },
+            {
+              "def": "to make free of confusion, doubt, or uncertainty:",
+              "examples": [
+                "He spoke to his supervisor to clear his mind about their working relationship."
+              ]
+            },
+            {
+              "def": "to make understandable or lucid;",
+              "examples": [
+                "She rephrased the report in order to clear the essential points."
+              ]
+            },
+            {
+              "def": "to make (a path, road, etc.) by removing any obstruction:",
+              "examples": [
+                "He had to cut away the underbrush to clear a path."
+              ]
+            },
+            {
+              "def": "to eat all the food on:",
+              "examples": [
+                "to clear one's plate."
+              ]
+            },
+            {
+              "def": "to relieve (the throat) of some obstruction, as phlegm, by forcing air through the larynx, usually producing a rasping sound.",
+              "examples": []
+            },
+            {
+              "def": "to make a similar rasping noise in (the throat), as to express disapproval or to attract attention.",
+              "examples": []
+            },
+            {
+              "def": "to remove from (the brow) any traces of tension or anxiety, as folds or wrinkles.",
+              "examples": []
+            },
+            {
+              "def": "to free of anything defamatory or discrediting:",
+              "examples": [
+                "to clear one's name."
+              ]
+            },
+            {
+              "def": "to free from suspicion, accusation, or imputation of guilt;",
+              "examples": [
+                "The jury cleared the defendant of the charge."
+              ]
+            },
+            {
+              "def": "to remove instructions or data from (a computer, calculator, etc.).",
+              "examples": []
+            },
+            {
+              "def": "to pass by or over without contact or entanglement:",
+              "examples": [
+                "The ship cleared the reef. The fisherman cleared his line."
+              ]
+            },
+            {
+              "def": "to pass through or away from:",
+              "examples": [
+                "The ship cleared the harbor. The bill cleared the Senate."
+              ]
+            },
+            {
+              "def": "to pass (checks or other commercial paper) through a clearinghouse.",
+              "examples": []
+            },
+            {
+              "def": "(of mail, telephone calls, etc.) to process, handle, reroute, etc.:",
+              "examples": [
+                "The dispatcher clears hundreds of items each day."
+              ]
+            },
+            {
+              "def": "to free from debt:",
+              "examples": [
+                "Just a few dollars more would clear him. The widow had to borrow money to clear her husband's estate."
+              ]
+            },
+            {
+              "def": "to gain as clear profit:",
+              "examples": [
+                "to clear $1000 in a transaction."
+              ]
+            },
+            {
+              "def": "to pay (a debt) in full.",
+              "examples": []
+            },
+            {
+              "def": "to receive authorization before taking action on:",
+              "examples": [
+                "You'll have to clear your plan with headquarters."
+              ]
+            },
+            {
+              "def": "to give clearance to;",
+              "examples": [
+                "The chairperson has to clear our speeches before the meeting."
+              ]
+            },
+            {
+              "def": "to authorize (a person, agency, etc.) to use classified information, documents, etc.:",
+              "examples": [
+                "He has finally been cleared for highly classified information."
+              ]
+            },
+            {
+              "def": "to remove trees, buildings, or other obstructions from (land), as for farming or construction.",
+              "examples": []
+            },
+            {
+              "def": "to free (a ship, cargo, etc.) from legal detention at a port by satisfying customs and other requirements.",
+              "examples": []
+            },
+            {
+              "def": "to try or otherwise dispose of (the cases awaiting court action):",
+              "examples": [
+                "to clear the docket."
+              ]
+            },
+            {
+              "def": "(of a commodity) to buy up or sell out the existing supply of.",
+              "examples": []
+            },
+            {
+              "def": "to drain or expel unwanted water in:",
+              "examples": [
+                "to clear a snorkel by sharp exhalations; to clear a regulator and face mask while underwater."
+              ]
+            },
+            {
+              "def": "to establish one or more winning cards in (a given suit) by leading the suit until all the outstanding cards have been drawn:",
+              "examples": [
+                "He cleared the heart suit before attacking spades."
+              ]
+            },
+            {
+              "def": "to become clear.",
+              "examples": []
+            },
+            {
+              "def": "to exchange checks and bills, and settle balances, as in a clearinghouse.",
+              "examples": []
+            },
+            {
+              "def": "to become free from doubt, anxiety, misunderstanding, etc.:",
+              "examples": [
+                "His mind cleared when he heard the truth."
+              ]
+            },
+            {
+              "def": "to pass an authority for review, approval, etc.:",
+              "examples": [
+                "The bill must clear through the assembly before it becomes legal."
+              ]
+            },
+            {
+              "def": "to remove dishes, food, etc., from a table following a meal:",
+              "examples": [
+                "Is it my turn to clear?"
+              ]
+            },
+            {
+              "def": "to remove previously inserted instructions or data from a computer, calculator, typewriter, or the like.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "(of a commodity for sale) to sell out;",
+              "examples": [
+                "Wheat cleared rapidly."
+              ]
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "We were warned to clear off before the floods came.",
+                "When the smoke cleared away, we saw that the house was in ruins."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "Clear out the closet.",
+                "Clear out your clothes from the closet.",
+                "The police cleared out the pickets by force."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": []
+            },
+            {
+              "def": "a clear or unobstructed space.",
+              "examples": []
+            },
+            {
+              "def": "plaintext.",
+              "examples": []
+            },
+            {
+              "def": "a piece of clear lumber.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "He was suspected of the theft, but evidence put him in the clear."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adv.,",
+          "defs": [
+            {
+              "def": "free from darkness, obscurity, or cloudiness;",
+              "examples": [
+                "a clear day."
+              ]
+            },
+            {
+              "def": "transparent;",
+              "examples": [
+                "clear water."
+              ]
+            },
+            {
+              "def": "without discoloration, defect, or blemish:",
+              "examples": [
+                "a clear complexion; a clear pane of glass."
+              ]
+            },
+            {
+              "def": "of a pure, even color:",
+              "examples": [
+                "a clear yellow."
+              ]
+            },
+            {
+              "def": "easily seen;",
+              "examples": [
+                "a clear outline."
+              ]
+            },
+            {
+              "def": "distinctly perceptible to the ear;",
+              "examples": [
+                "a clear sound."
+              ]
+            },
+            {
+              "def": "free from hoarse, harsh, or rasping qualities:",
+              "examples": [
+                "a clear voice; clear as a bell."
+              ]
+            },
+            {
+              "def": "easily understood;",
+              "examples": [
+                "clear, concise answers."
+              ]
+            },
+            {
+              "def": "entirely comprehensible;",
+              "examples": [
+                "The ultimate causes of inflation may never be clear."
+              ]
+            },
+            {
+              "def": "distinct;",
+              "examples": [
+                "a clear case of misbehavior."
+              ]
+            },
+            {
+              "def": "free from confusion, uncertainty, or doubt:",
+              "examples": [
+                "clear thinking."
+              ]
+            },
+            {
+              "def": "perceiving or discerning distinctly:",
+              "examples": [
+                "a clear mind."
+              ]
+            },
+            {
+              "def": "convinced;",
+              "examples": [
+                "He was not clear on the first point that she made but agreed with the others."
+              ]
+            },
+            {
+              "def": "free from anything that would disturb or blame:",
+              "examples": [
+                "a clear conscience."
+              ]
+            },
+            {
+              "def": "free from suspicion of guilt or complicity:",
+              "examples": [
+                "She was entirely clear of the crime until one of her accomplices turned informer."
+              ]
+            },
+            {
+              "def": "serene;",
+              "examples": [
+                "a clear brow."
+              ]
+            },
+            {
+              "def": "free from obstructions or obstacles;",
+              "examples": [
+                "a clear view; a clear path."
+              ]
+            },
+            {
+              "def": "free from entanglement or contact:",
+              "examples": [
+                "He kept clear of her after the argument. She managed to keep her dress clear of the mud."
+              ]
+            },
+            {
+              "def": "without limitation or qualification;",
+              "examples": [
+                "a clear victory."
+              ]
+            },
+            {
+              "def": "free from obligation, liability, or debt:",
+              "examples": [
+                "After twenty years, our house is clear of the mortgage. Municipal bonds were returning as much as 9 percent, clear of taxes."
+              ]
+            },
+            {
+              "def": "without deduction or diminution:",
+              "examples": [
+                "a clear $1000 after taxes."
+              ]
+            },
+            {
+              "def": "freed or emptied of contents, cargo, etc.",
+              "examples": []
+            },
+            {
+              "def": "(of tree trunks or timber) free from branches, knots, or other protruding or rough parts:",
+              "examples": [
+                "The trunk was clear for 20 feet above the ground."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "(in cryptography) not coded or enciphered. Cf.  ",
+              "examples": []
+            },
+            {
+              "def": "bright;",
+              "examples": [
+                "a clear flame."
+              ]
+            },
+            {
+              "def": "illustrious.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v., n.",
+          "defs": [
+            {
+              "def": "in a clear or distinct manner;",
+              "examples": []
+            },
+            {
+              "def": "so as not to be in contact with or near;",
+              "examples": [
+                "Stand clear of the closing doors."
+              ]
+            },
+            {
+              "def": "entirely;",
+              "examples": [
+                "to cut a piece clear off;",
+                "to climb clear to the top;",
+                "to run clear off the road."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to remove people or objects from (usually fol. by ",
+              "examples": [
+                "to clear a courtroom of photographers; to clear the table of dishes."
+              ]
+            },
+            {
+              "def": "to remove (people or objects) (usually fol. by ",
+              "examples": [
+                "to clear the photographers from the courtroom; to clear the dishes from the table."
+              ]
+            },
+            {
+              "def": "to make clear, transparent, or pellucid;",
+              "examples": [
+                "to clear a liquid by means of a filter."
+              ]
+            },
+            {
+              "def": "to make free of confusion, doubt, or uncertainty:",
+              "examples": [
+                "He spoke to his supervisor to clear his mind about their working relationship."
+              ]
+            },
+            {
+              "def": "to make understandable or lucid;",
+              "examples": [
+                "She rephrased the report in order to clear the essential points."
+              ]
+            },
+            {
+              "def": "to make (a path, road, etc.) by removing any obstruction:",
+              "examples": [
+                "He had to cut away the underbrush to clear a path."
+              ]
+            },
+            {
+              "def": "to eat all the food on:",
+              "examples": [
+                "to clear one's plate."
+              ]
+            },
+            {
+              "def": "to relieve (the throat) of some obstruction, as phlegm, by forcing air through the larynx, usually producing a rasping sound.",
+              "examples": []
+            },
+            {
+              "def": "to make a similar rasping noise in (the throat), as to express disapproval or to attract attention.",
+              "examples": []
+            },
+            {
+              "def": "to remove from (the brow) any traces of tension or anxiety, as folds or wrinkles.",
+              "examples": []
+            },
+            {
+              "def": "to free of anything defamatory or discrediting:",
+              "examples": [
+                "to clear one's name."
+              ]
+            },
+            {
+              "def": "to free from suspicion, accusation, or imputation of guilt;",
+              "examples": [
+                "The jury cleared the defendant of the charge."
+              ]
+            },
+            {
+              "def": "to remove instructions or data from (a computer, calculator, etc.).",
+              "examples": []
+            },
+            {
+              "def": "to pass by or over without contact or entanglement:",
+              "examples": [
+                "The ship cleared the reef. The fisherman cleared his line."
+              ]
+            },
+            {
+              "def": "to pass through or away from:",
+              "examples": [
+                "The ship cleared the harbor. The bill cleared the Senate."
+              ]
+            },
+            {
+              "def": "to pass (checks or other commercial paper) through a clearinghouse.",
+              "examples": []
+            },
+            {
+              "def": "(of mail, telephone calls, etc.) to process, handle, reroute, etc.:",
+              "examples": [
+                "The dispatcher clears hundreds of items each day."
+              ]
+            },
+            {
+              "def": "to free from debt:",
+              "examples": [
+                "Just a few dollars more would clear him. The widow had to borrow money to clear her husband's estate."
+              ]
+            },
+            {
+              "def": "to gain as clear profit:",
+              "examples": [
+                "to clear $1000 in a transaction."
+              ]
+            },
+            {
+              "def": "to pay (a debt) in full.",
+              "examples": []
+            },
+            {
+              "def": "to receive authorization before taking action on:",
+              "examples": [
+                "You'll have to clear your plan with headquarters."
+              ]
+            },
+            {
+              "def": "to give clearance to;",
+              "examples": [
+                "The chairperson has to clear our speeches before the meeting."
+              ]
+            },
+            {
+              "def": "to authorize (a person, agency, etc.) to use classified information, documents, etc.:",
+              "examples": [
+                "He has finally been cleared for highly classified information."
+              ]
+            },
+            {
+              "def": "to remove trees, buildings, or other obstructions from (land), as for farming or construction.",
+              "examples": []
+            },
+            {
+              "def": "to free (a ship, cargo, etc.) from legal detention at a port by satisfying customs and other requirements.",
+              "examples": []
+            },
+            {
+              "def": "to try or otherwise dispose of (the cases awaiting court action):",
+              "examples": [
+                "to clear the docket."
+              ]
+            },
+            {
+              "def": "(of a commodity) to buy up or sell out the existing supply of.",
+              "examples": []
+            },
+            {
+              "def": "to drain or expel unwanted water in:",
+              "examples": [
+                "to clear a snorkel by sharp exhalations; to clear a regulator and face mask while underwater."
+              ]
+            },
+            {
+              "def": "to establish one or more winning cards in (a given suit) by leading the suit until all the outstanding cards have been drawn:",
+              "examples": [
+                "He cleared the heart suit before attacking spades."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "to become clear.",
+              "examples": []
+            },
+            {
+              "def": "to exchange checks and bills, and settle balances, as in a clearinghouse.",
+              "examples": []
+            },
+            {
+              "def": "to become free from doubt, anxiety, misunderstanding, etc.:",
+              "examples": [
+                "His mind cleared when he heard the truth."
+              ]
+            },
+            {
+              "def": "to pass an authority for review, approval, etc.:",
+              "examples": [
+                "The bill must clear through the assembly before it becomes legal."
+              ]
+            },
+            {
+              "def": "to remove dishes, food, etc., from a table following a meal:",
+              "examples": [
+                "Is it my turn to clear?"
+              ]
+            },
+            {
+              "def": "to remove previously inserted instructions or data from a computer, calculator, typewriter, or the like.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "(of a commodity for sale) to sell out;",
+              "examples": [
+                "Wheat cleared rapidly."
+              ]
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "We were warned to clear off before the floods came.",
+                "When the smoke cleared away, we saw that the house was in ruins."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "Clear out the closet.",
+                "Clear out your clothes from the closet.",
+                "The police cleared out the pickets by force."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "a clear or unobstructed space.",
+              "examples": []
+            },
+            {
+              "def": "plaintext.",
+              "examples": []
+            },
+            {
+              "def": "a piece of clear lumber.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "He was suspected of the theft, but evidence put him in the clear."
+              ]
+            }
+          ]
+        }
+      ],
       "protocol": "https",
       "extension": "mp3",
       "url": "https://www.wordreference.com/audio/en/uk/general/en015598.mp3"
+    },
+    {
+      "word": "blue",
+      "phonemics": "/ˈbluː/",
+      "definitions": [
+        {
+          "class": "n., adj.,",
+          "defs": [
+            {
+              "def": " the pure color of a clear sky;",
+              "examples": []
+            },
+            {
+              "def": " something having a blue color.",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The plane shot off into the blue.",
+                "The boat sank into the deep blue."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "of the color blue:",
+              "examples": [
+                "a beautiful blue sky."
+              ]
+            },
+            {
+              "def": "sad or depressed in spirits:",
+              "examples": [
+                "I'm feeling a little blue today, thinking about old friends."
+              ]
+            },
+            {
+              "def": " holding or offering little hope;",
+              "examples": [
+                "a blue outlook."
+              ]
+            },
+            {
+              "def": " deriving from strict moral or religious observance;",
+              "examples": [
+                "[usually before a noun]Blue laws kept stores closed on Sundays."
+              ]
+            },
+            {
+              "def": "indecent;",
+              "examples": [
+                "a blue movie."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to make (something) blue;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": " ",
+              "examples": [
+                "to argue till one is blue in the face."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Out of the blue, she inherited a fortune."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n., adj.,",
+          "defs": [
+            {
+              "def": "the pure color of a clear sky;",
+              "examples": []
+            },
+            {
+              "def": "bluing.",
+              "examples": []
+            },
+            {
+              "def": "something having a blue color:",
+              "examples": [
+                "Place the blue next to the red."
+              ]
+            },
+            {
+              "def": "a person who wears blue or is a member of a group characterized by some blue symbol:",
+              "examples": [
+                "Tomorrow the blues will play the browns."
+              ]
+            },
+            {
+              "def": "(",
+              "examples": []
+            },
+            {
+              "def": "bluestocking.",
+              "examples": []
+            },
+            {
+              "def": "See  ",
+              "examples": []
+            },
+            {
+              "def": "any of several blue-winged butterflies of the family Lycaenidae.",
+              "examples": []
+            },
+            {
+              "def": "blueline.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "They've vanished into the blue somewhere."
+              ]
+            },
+            {
+              "def": " suddenly and unexpectedly:",
+              "examples": [
+                "The inheritance came out of the blue as a stroke of good fortune."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "of the color of blue:",
+              "examples": [
+                "a blue tie."
+              ]
+            },
+            {
+              "def": "(",
+              "examples": []
+            },
+            {
+              "def": "(of the skin) discolored by cold, contusion, fear, or vascular collapse.",
+              "examples": []
+            },
+            {
+              "def": "depressed in spirits;",
+              "examples": [
+                "She felt blue about not being chosen for the team."
+              ]
+            },
+            {
+              "def": "holding or offering little hope;",
+              "examples": [
+                "a blue outlook."
+              ]
+            },
+            {
+              "def": "characterized by or stemming from rigid morals or religion:",
+              "examples": [
+                "statutes that were blue and unrealistic."
+              ]
+            },
+            {
+              "def": "marked by blasphemy:",
+              "examples": [
+                "The air was blue with oaths."
+              ]
+            },
+            {
+              "def": "(of an animal's pelage) grayish-blue.",
+              "examples": []
+            },
+            {
+              "def": "indecent;",
+              "examples": [
+                "a blue joke or film."
+              ]
+            },
+            {
+              "def": " exhausted and speechless, as from excessive anger, physical strain, etc.:",
+              "examples": [
+                "I reminded him about it till I was blue in the face."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to make blue;",
+              "examples": []
+            },
+            {
+              "def": "to tinge with bluing:",
+              "examples": [
+                "Don't blue your clothes till the second rinse."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to become or turn blue.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en009029.mp3"
+    },
+    {
+      "word": "glass",
+      "phonemics": "/ˈɡlɑːs/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": " a hard, brittle, mostly transparent substance, usually produced by heating and melting sand, soda, and lime, as in the ordinary kind used for windows.",
+              "examples": []
+            },
+            {
+              "def": " a tumbler or other drinking container without a handle:",
+              "examples": [
+                "[countable]a drinking glass."
+              ]
+            },
+            {
+              "def": " a glassful:",
+              "examples": [
+                "[countable]drank two glasses of water."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " a mirror.",
+              "examples": []
+            },
+            {
+              "def": " things made of glass:",
+              "examples": [
+                "[uncountable]to collect old glass."
+              ]
+            },
+            {
+              "def": " any of various instruments for viewing, as a spyglass.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "made of glass:",
+              "examples": [
+                "a glass bead."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to cover or enclose with glass:",
+              "examples": [
+                "The room was glassed in."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a hard, brittle, noncrystalline, more or less transparent substance produced by fusion, usually consisting of mutually dissolved silica and silicates that also contain soda and lime, as in the ordinary variety used for windows and bottles.",
+              "examples": []
+            },
+            {
+              "def": "any artificial or natural substance having similar properties and composition, as fused borax, obsidian, or the like.",
+              "examples": []
+            },
+            {
+              "def": "something made of such a substance, as a windowpane.",
+              "examples": []
+            },
+            {
+              "def": "a tumbler or other comparatively tall, handleless drinking container.",
+              "examples": []
+            },
+            {
+              "def": " Also called  ",
+              "examples": []
+            },
+            {
+              "def": "a mirror.",
+              "examples": []
+            },
+            {
+              "def": "things made of glass, collectively;",
+              "examples": [
+                "They used to collect old glass."
+              ]
+            },
+            {
+              "def": "a glassful.",
+              "examples": []
+            },
+            {
+              "def": "a lens, esp. one used as a magnifying glass.",
+              "examples": []
+            },
+            {
+              "def": "a spyglass.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "made of glass:",
+              "examples": [
+                "a glass tray."
+              ]
+            },
+            {
+              "def": "furnished or fitted with panes of glass;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to fit with panes of glass.",
+              "examples": []
+            },
+            {
+              "def": "cover with or encase in glass.",
+              "examples": []
+            },
+            {
+              "def": "to coat or cover with fiberglass:",
+              "examples": [
+                "to glass the hull of a boat."
+              ]
+            },
+            {
+              "def": "to scan with a spyglass or other optical instrument.",
+              "examples": []
+            },
+            {
+              "def": "to reflect:",
+              "examples": [
+                "Trees glassed themselves in the lake."
+              ]
+            }
+          ]
+        }
+      ],
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en038710.mp3"
     }
   ]
 }

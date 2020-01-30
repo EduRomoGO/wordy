@@ -7,11 +7,13 @@ db.defaults({ audioDescriptors: [] })
   .write()
 
 const searchWordAndCreateDescriptor = word => {
-    const createDescriptor = (audio) => {
+    const createDescriptor = ({audio, phonemics, definitions}) => {
         const idAudio = audio.split('/').pop();
 
         return {
             word,
+            phonemics,
+            definitions,
             protocol: 'https',
             extension: 'mp3',
             url: `https://www.wordreference.com/audio/en/uk/general/${idAudio}`,
@@ -25,8 +27,8 @@ const searchWordAndCreateDescriptor = word => {
     };
 
     def.define(word)
-        .then(({ audio }) => {
-            saveDescriptorToDb(createDescriptor(audio));
+        .then(data => {
+            saveDescriptorToDb(createDescriptor(data));
         });
 };
 
@@ -40,8 +42,15 @@ const findWord = word => {
     }     
 };
 
-// findWord('school');
-
-const words = ['school', 'bakery', 'swim', 'clear', 'blue'];
+const words = ['school', 'bakery', 'swim', 'clear', 'blue', 'glass'];
 
 words.forEach(findWord);
+
+
+// const fullData = {
+//     definitions: data,
+//     audio: data.length ? $('#aud0').children()[0].attribs.src : '',
+//     pronunciation: data.length ? $('.pronWR')[0].children[1].data : '',
+// };
+
+// return fullData;
