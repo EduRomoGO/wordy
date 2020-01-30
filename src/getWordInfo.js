@@ -6,10 +6,6 @@ const { getAudioFile } = require('./getAudioFile.js');
 db.defaults({ wordDescriptors: [] })
     .write();
 
-const wordsInDb = db.get('wordDescriptors')
-    .map('word')
-    .value();
-
 const searchWord = word => def.define(word);
 
 const createDescriptor = ({audio, phonemics, definitions, word}) => {
@@ -32,24 +28,20 @@ const saveDescriptorToDb = descriptor => {
 };
 
 const getWordInfo = async word => {
-    const wordIsNotInDb = !wordsInDb.includes(word);
+    try {
+        const data = await searchWord(word);
+        const descriptor = createDescriptor({...data, word});
 
-    if (wordIsNotInDb) {
-        try {
-            const data = await searchWord(word);
-            const descriptor = createDescriptor({...data, word});
+        saveDescriptorToDb(descriptor);
+        getAudioFile(descriptor);
 
-            saveDescriptorToDb(descriptor);
-            getAudioFile(descriptor);
-
-            console.log('=====================')
-            console.log(`Successfully searched ${word}, created its descriptor, saved it to db and retrieved its audio file`);
-            console.log('=====================')
-            console.log(' ');
-            console.log(' ');
-        } catch (error) {
-            console.error(error);
-        }
+        console.log('=====================')
+        console.log(`Successfully searched ${word}, created its descriptor, saved it to db and retrieved its audio file`);
+        console.log('=====================')
+        console.log(' ');
+        console.log(' ');
+    } catch (error) {
+        console.error(error);
     }
 };
 
