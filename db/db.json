@@ -1,64 +1,64 @@
 {
   "wordDescriptors": [
     {
-      "word": "card",
-      "phonemics": "/ˈkɑː",
+      "word": "school",
+      "phonemics": "/ˈskuːl/",
       "definitions": [
         {
           "class": "n.",
           "defs": [
             {
-              "def": " a usually rectangular piece of stiff paper used to record information, etc:",
+              "def": "a place for teaching people under college age: ",
               "examples": [
-                "[countable]She showed her identification card and was let in."
+                "[countable]His children went to a private school.",
+                "[uncountable]Are your children old enough to go to school?"
               ]
             },
             {
-              "def": " one of a set of cards with spots, etc., used in playing various games.",
-              "examples": []
-            },
-            {
-              "def": " (",
-              "examples": []
-            },
-            {
-              "def": " something useful in attaining an objective, likened to a high card in a game:",
+              "def": "a college or university: ",
               "examples": [
-                "[countable]I had one more card to play: my friendship with the president."
+                "[countable]Yale is a prestigious school.",
+                "[uncountable]He went to school at Yale."
               ]
             },
             {
-              "def": " a folded piece of thin cardboard printed with a message of holiday greeting, etc.",
-              "examples": []
+              "def": " an academic department for instruction in a particular field:",
+              "examples": [
+                "[countable]the school of liberal arts and sciences."
+              ]
             },
             {
-              "def": " ",
-              "examples": []
+              "def": "a program of studies: ",
+              "examples": [
+                "[uncountable]He's studying in art school.",
+                "[countable]He's enrolled in an art school."
+              ]
             },
             {
-              "def": "\n",
-              "examples": []
+              "def": " the activity of teaching or of learning under instruction:",
+              "examples": [
+                "[uncountable]School doesn't start until September."
+              ]
+            },
+            {
+              "def": " the body of people belonging to an educational institution:",
+              "examples": [
+                "[countable]The whole school applauded."
+              ]
+            },
+            {
+              "def": " a group of pupils having a certain master, system, etc.:",
+              "examples": [
+                "[countable]the Platonic school of philosophy."
+              ]
             }
           ]
         },
         {
-          "class": "Idioms",
+          "class": "adj.",
           "defs": [
             {
-              "def": " destined or certain to occur.",
-              "examples": []
-            },
-            {
-              "def": " to be completely straightforward;",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "a machine for combing fibers, as of cotton or wool, before spinning.",
+              "def": "of or connected with a school or schools.",
               "examples": []
             }
           ]
@@ -67,130 +67,9 @@
           "class": "v.",
           "defs": [
             {
-              "def": "to comb (fibers) with this machine.",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "Cardinal.",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "a usually rectangular piece of stiff paper, thin pasteboard, or plastic for various uses, as to write information on or printed as a means of identifying the holder:",
+              "def": "to educate in or as if in a school;",
               "examples": [
-                "a 3ʺ × 5ʺ file card; a membership card."
-              ]
-            },
-            {
-              "def": "one of a set of thin pieces of cardboard with spots, figures, etc., used in playing various games;",
-              "examples": []
-            },
-            {
-              "def": " (",
-              "examples": [
-                "to win at cards."
-              ]
-            },
-            {
-              "def": "a piece of paper or thin cardboard, usually folded, printed with a message of holiday greeting, congratulations, or other sentiment, often with an illustration or decorations, for mailing to a person on an appropriate occasion.",
-              "examples": []
-            },
-            {
-              "def": "something useful in attaining an objective, as a course of action or position of strength, comparable to a high card held in a game:",
-              "examples": [
-                "If negotiation fails, we still have another card to play."
-              ]
-            },
-            {
-              "def": "postcard.",
-              "examples": []
-            },
-            {
-              "def": "See  ",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": []
-            },
-            {
-              "def": "a program of the events at races, boxing matches, etc.",
-              "examples": []
-            },
-            {
-              "def": "scorecard.",
-              "examples": []
-            },
-            {
-              "def": "a menu or wine list.",
-              "examples": []
-            },
-            {
-              "def": "See  ",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": []
-            },
-            {
-              "def": "See  ",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": [
-                "a queer card."
-              ]
-            },
-            {
-              "def": " or  ",
-              "examples": [
-                "A reorganization is in the cards."
-              ]
-            },
-            {
-              "def": " to act cleverly, sensibly, or cautiously:",
-              "examples": [
-                "If you play your cards right, you may get mentioned in her will."
-              ]
-            },
-            {
-              "def": " to be completely straightforward and open;",
-              "examples": [
-                "He always believed in putting his cards on the table."
-              ]
-            }
-          ]
-        },
-        {
-          "class": "v.t.",
-          "defs": [
-            {
-              "def": "to provide with a card.",
-              "examples": []
-            },
-            {
-              "def": "to fasten on a card.",
-              "examples": []
-            },
-            {
-              "def": "to write, list, etc., on cards.",
-              "examples": []
-            },
-            {
-              "def": "to examine the identity card or papers of:",
-              "examples": [
-                "The bartender was carding all youthful customers to be sure they were of legal drinking age."
+                "schooled him in magic and sorcery."
               ]
             }
           ]
@@ -199,24 +78,162 @@
           "class": "n.",
           "defs": [
             {
-              "def": "a machine for combing and paralleling fibers of cotton, flax, wool, etc., prior to spinning to remove short, undesirable fibers and produce a sliver.",
-              "examples": []
-            },
-            {
-              "def": "a similar implement for raising the nap on cloth.",
+              "def": "a large number of fish, porpoises, etc., feeding or traveling together.",
               "examples": []
             }
           ]
         },
         {
-          "class": "v.t.",
+          "class": "v.",
           "defs": [
             {
-              "def": "to dress (wool or the like) with a card.",
+              "def": "to form into, or go in, a school, such as fish.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "an institution where instruction is given, esp. to persons under college age:",
+              "examples": [
+                "The children are at school."
+              ]
+            },
+            {
+              "def": "an institution for instruction in a particular skill or field.",
+              "examples": []
+            },
+            {
+              "def": "a college or university.",
+              "examples": []
+            },
+            {
+              "def": "a regular course of meetings of a teacher or teachers and students for instruction;",
+              "examples": [
+                "summer school."
+              ]
+            },
+            {
+              "def": "a session of such a course:",
+              "examples": [
+                "no school today; to be kept after school."
+              ]
+            },
+            {
+              "def": "the activity or process of learning under instruction, esp. at a school for the young:",
+              "examples": [
+                "As a child, I never liked school."
+              ]
+            },
+            {
+              "def": "one's formal education:",
+              "examples": [
+                "They plan to be married when he finishes school."
+              ]
+            },
+            {
+              "def": "a building housing a school.",
+              "examples": []
+            },
+            {
+              "def": "the body of students, or students and teachers, belonging to an educational institution:",
+              "examples": [
+                "The entire school rose when the principal entered the auditorium."
+              ]
+            },
+            {
+              "def": "a building, room, etc., in a university, set apart for the use of one of the faculties or for some particular purpose:",
+              "examples": [
+                "the school of agriculture."
+              ]
+            },
+            {
+              "def": "a particular faculty or department of a university having the right to recommend candidates for degrees, and usually beginning its program of instruction after the student has completed general education:",
+              "examples": [
+                "medical school."
+              ]
+            },
+            {
+              "def": "any place, situation, etc., tending to teach anything.",
+              "examples": []
+            },
+            {
+              "def": "the body of pupils or followers of a master, system, method, etc.:",
+              "examples": [
+                "the Platonic school of philosophy."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": [
+                "the modern school; the Florentine school.",
+                "the French school."
+              ]
+            },
+            {
+              "def": "any group of persons having common attitudes or beliefs.",
+              "examples": []
+            },
+            {
+              "def": "parts of close-order drill applying to the individual ",
+              "examples": []
+            },
+            {
+              "def": "a group of people gathered together, esp. for gambling or drinking.",
               "examples": []
             },
             {
               "def": " ",
+              "examples": []
+            },
+            {
+              "def": "the schoolmen in a medieval university.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "of or connected with a school or schools.",
+              "examples": []
+            },
+            {
+              "def": "of the schoolmen.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to educate in or as if in a school;",
+              "examples": []
+            },
+            {
+              "def": "to reprimand.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "a large number of fish, porpoises, whales, or the like, feeding or migrating together.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to form into, or go in, a school, as fish.",
               "examples": []
             }
           ]
@@ -224,225 +241,26 @@
       ],
       "protocol": "https",
       "extension": "mp3",
-      "url": "https://www.wordreference.com/audio/en/uk/general/en012889.mp3"
+      "url": "https://www.wordreference.com/audio/en/uk/general/en075755.mp3"
     },
     {
-      "word": "card",
-      "phonemics": "/ˈkɑː",
+      "word": "bakery",
+      "phonemics": "/ˈbeɪkəri/",
       "definitions": [
         {
           "class": "n.",
           "defs": [
             {
-              "def": " a usually rectangular piece of stiff paper used to record information, etc:",
-              "examples": [
-                "[countable]She showed her identification card and was let in."
-              ]
-            },
-            {
-              "def": " one of a set of cards with spots, etc., used in playing various games.",
-              "examples": []
-            },
-            {
-              "def": " (",
-              "examples": []
-            },
-            {
-              "def": " something useful in attaining an objective, likened to a high card in a game:",
-              "examples": [
-                "[countable]I had one more card to play: my friendship with the president."
-              ]
-            },
-            {
-              "def": " a folded piece of thin cardboard printed with a message of holiday greeting, etc.",
-              "examples": []
-            },
-            {
-              "def": " ",
-              "examples": []
-            },
-            {
-              "def": "\n",
+              "def": "a place where baked goods are made or sold.",
               "examples": []
             }
           ]
         },
         {
-          "class": "Idioms",
+          "class": "n., pl.",
           "defs": [
             {
-              "def": " destined or certain to occur.",
-              "examples": []
-            },
-            {
-              "def": " to be completely straightforward;",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "a machine for combing fibers, as of cotton or wool, before spinning.",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "v.",
-          "defs": [
-            {
-              "def": "to comb (fibers) with this machine.",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "Cardinal.",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "a usually rectangular piece of stiff paper, thin pasteboard, or plastic for various uses, as to write information on or printed as a means of identifying the holder:",
-              "examples": [
-                "a 3ʺ × 5ʺ file card; a membership card."
-              ]
-            },
-            {
-              "def": "one of a set of thin pieces of cardboard with spots, figures, etc., used in playing various games;",
-              "examples": []
-            },
-            {
-              "def": " (",
-              "examples": [
-                "to win at cards."
-              ]
-            },
-            {
-              "def": "a piece of paper or thin cardboard, usually folded, printed with a message of holiday greeting, congratulations, or other sentiment, often with an illustration or decorations, for mailing to a person on an appropriate occasion.",
-              "examples": []
-            },
-            {
-              "def": "something useful in attaining an objective, as a course of action or position of strength, comparable to a high card held in a game:",
-              "examples": [
-                "If negotiation fails, we still have another card to play."
-              ]
-            },
-            {
-              "def": "postcard.",
-              "examples": []
-            },
-            {
-              "def": "See  ",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": []
-            },
-            {
-              "def": "a program of the events at races, boxing matches, etc.",
-              "examples": []
-            },
-            {
-              "def": "scorecard.",
-              "examples": []
-            },
-            {
-              "def": "a menu or wine list.",
-              "examples": []
-            },
-            {
-              "def": "See  ",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": []
-            },
-            {
-              "def": "See  ",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": [
-                "a queer card."
-              ]
-            },
-            {
-              "def": " or  ",
-              "examples": [
-                "A reorganization is in the cards."
-              ]
-            },
-            {
-              "def": " to act cleverly, sensibly, or cautiously:",
-              "examples": [
-                "If you play your cards right, you may get mentioned in her will."
-              ]
-            },
-            {
-              "def": " to be completely straightforward and open;",
-              "examples": [
-                "He always believed in putting his cards on the table."
-              ]
-            }
-          ]
-        },
-        {
-          "class": "v.t.",
-          "defs": [
-            {
-              "def": "to provide with a card.",
-              "examples": []
-            },
-            {
-              "def": "to fasten on a card.",
-              "examples": []
-            },
-            {
-              "def": "to write, list, etc., on cards.",
-              "examples": []
-            },
-            {
-              "def": "to examine the identity card or papers of:",
-              "examples": [
-                "The bartender was carding all youthful customers to be sure they were of legal drinking age."
-              ]
-            }
-          ]
-        },
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "a machine for combing and paralleling fibers of cotton, flax, wool, etc., prior to spinning to remove short, undesirable fibers and produce a sliver.",
-              "examples": []
-            },
-            {
-              "def": "a similar implement for raising the nap on cloth.",
-              "examples": []
-            }
-          ]
-        },
-        {
-          "class": "v.t.",
-          "defs": [
-            {
-              "def": "to dress (wool or the like) with a card.",
-              "examples": []
-            },
-            {
-              "def": " ",
+              "def": "a place where baked goods are made.",
               "examples": []
             }
           ]
@@ -450,7 +268,7 @@
       ],
       "protocol": "https",
       "extension": "mp3",
-      "url": "https://www.wordreference.com/audio/en/uk/general/en012889.mp3"
+      "url": "https://www.wordreference.com/audio/en/uk/general/en006231.mp3"
     }
   ]
 }

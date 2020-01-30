@@ -38,15 +38,19 @@ const getWordInfo = async word => {
         try {
             const data = await searchWord(word);
             const descriptor = createDescriptor({...data, word});
-            console.log(descriptor)
+
             saveDescriptorToDb(descriptor);
             getAudioFile(descriptor);
+
+            console.log('=====================')
+            console.log(`Successfully searched ${word}, created its descriptor, saved it to db and retrieved its audio file`);
+            console.log('=====================')
+            console.log(' ');
+            console.log(' ');
         } catch (error) {
             console.error(error);
         }
     }
 };
-
-getWordInfo('card');
 
 module.exports = { getWordInfo };
