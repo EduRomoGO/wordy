@@ -1,6 +1,5 @@
 const { wrDefinition } = require('wordreference-definition-api');
 let def = wrDefinition();
-// const audioDescriptors = require('./db/audioDescriptors.js');
 const { db } = require('./dbCreator.js');
 
 db.defaults({ audioDescriptors: [] })
