@@ -3,7 +3,7 @@ var https = require('https');
 var fs = require('fs');
 
 const getAudioFile = (data) => {
-    let file = fs.createWriteStream(`./audioFiles/${data.word}.${data.extension}`);
+    let file = fs.createWriteStream(`./db/audioFiles/${data.word}.${data.extension}`);
 
     const protocol = data.protocol === 'http' ? http : https;
 

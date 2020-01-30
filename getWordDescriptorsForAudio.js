@@ -33,7 +33,6 @@ const searchWordAndCreateDescriptor = word => {
 const wordsInDb = db.get('audioDescriptors')
     .map('word')
     .value();
-   
 
 const findWord = word => {
     if (!wordsInDb.includes(word)) {
@@ -41,10 +40,8 @@ const findWord = word => {
     }     
 };
 
-findWord('school');
+// findWord('school');
 
 const words = ['school', 'bakery', 'swim', 'clear', 'blue'];
 
-// Para cada palabra que se busque:
-// mirar si existe descriptor para esa palabra
-// si no existe, hacer busqueda e incluir descriptor
+words.forEach(findWord);

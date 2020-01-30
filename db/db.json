@@ -1,0 +1,34 @@
+{
+  "audioDescriptors": [
+    {
+      "word": "bakery",
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en006231.mp3"
+    },
+    {
+      "word": "swim",
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en087318.mp3"
+    },
+    {
+      "word": "blue",
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en009029.mp3"
+    },
+    {
+      "word": "school",
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en075755.mp3"
+    },
+    {
+      "word": "clear",
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en015598.mp3"
+    }
+  ]
+}
