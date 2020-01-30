@@ -1,4 +1,4 @@
-const { text } = require('./text.js');
+const { text } = require('../../info/text.js');
 const { pipe } = require('ramda');
 
 const leaveOnlyLetters = str => str.replace(/[^A-Za-z\s]/g, '');

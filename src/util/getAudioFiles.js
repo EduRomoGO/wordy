@@ -1,5 +1,5 @@
-const { getAudioFile } = require('./getAudioFile.js');
-const { db } = require('./dbCreator.js');
+const { getAudioFile } = require('../../getAudioFile.js');
+const { db } = require('../../dbCreator.js');
 
 const audioDescriptors = db.get('audioDescriptors')
     .value();
