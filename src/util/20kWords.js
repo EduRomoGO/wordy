@@ -1,3 +1,5 @@
+// https://github.com/first20hours/google-10000-english/edit/master/20k.txt
+
 module.exports = {
     wordsList: `the
 of
