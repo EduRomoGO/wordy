@@ -1,7 +1,9 @@
 const { getWordInfo } = require('./getWordInfo.js');
 const { getWaitSeconds } = require('./src/util/randomFromSet.js');
+const { get20kWords } = require('./src/util/parse20kWords.js');
 
-const words = ['school', 'bakery'];
+const words = get20kWords().slice(0, 100);
+// const words = ['school', 'bakery'];
 // const words = ['school', 'bakery', 'swim', 'clear', 'blue', 'glass'];
 
 let timeoutAcc = 0;
