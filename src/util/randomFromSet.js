@@ -1,4 +1,4 @@
-const R = requre('ramda');
+const R = require('ramda');
 
 function getRndmFromSet() {
     const set = R.range(23, 28);
