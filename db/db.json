@@ -25486,6 +25486,63 @@
       "protocol": "https",
       "extension": "mp3",
       "url": "https://www.wordreference.com/audio/en/uk/general/en034077.mp3"
+    },
+    {
+      "word": "maniac",
+      "phonemics": "/ˈmeɪniæk/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "an insane person; lunatic.",
+              "examples": []
+            },
+            {
+              "def": "a person who is very enthusiastic or overly excited (about something):",
+              "examples": [
+                "a maniac about neatness."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a raving or violently insane person;",
+              "examples": []
+            },
+            {
+              "def": "any intemperate or overly zealous or enthusiastic person:",
+              "examples": [
+                "a maniac when it comes to details."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "maniacal.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "of or pertaining to mania or a maniac.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "protocol": "https",
+      "extension": "mp3",
+      "url": "https://www.wordreference.com/audio/en/uk/general/en1054092.mp3"
     }
   ]
 }
