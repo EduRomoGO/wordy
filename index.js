@@ -1,4 +1,4 @@
-const { getWordInfo } = require('./getWordInfo.js');
+const { getWordInfo } = require('./src/getWordInfo.js');
 const { getWaitSeconds } = require('./src/util/randomFromSet.js');
 const { get20kWords } = require('./src/util/parse20kWords.js');
 
