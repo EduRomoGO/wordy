@@ -8,13 +8,15 @@ const removeEmptySpaces = arr => arr.filter(item => !!item);
 const toLowerCase = arr => arr.map(item => item.toLowerCase());
 const removeDuplicates = arr => [...new Set(arr)];
 
-const words = pipe(
-    leaveOnlyLetters,
-    removeLineJumps,
-    splitBySpaces,
-    removeEmptySpaces,
-    toLowerCase,
-    removeDuplicates
-)(text);
+const getWordsFromText = () => {
+    return pipe(
+        leaveOnlyLetters,
+        removeLineJumps,
+        splitBySpaces,
+        removeEmptySpaces,
+        toLowerCase,
+        removeDuplicates
+    )(text);
+};
 
-console.log(words);
+module.exports = { getWordsFromText }
