@@ -118055,6 +118055,264 @@
           ]
         }
       ]
+    },
+    {
+      "word": "horse",
+      "phonemics": "/ˈhɔː",
+      "definitions": [
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": " a large mammal with solid hooves, used for carrying or pulling loads and for riding.",
+              "examples": []
+            },
+            {
+              "def": " something on which a person rides, sits, or exercises, as if riding on the back of such an animal:",
+              "examples": [
+                "[countable]a rocking horse."
+              ]
+            },
+            {
+              "def": " a wooden apparatus for exercising or performing gymnastics;",
+              "examples": []
+            },
+            {
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": " ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": " to eat a great deal.",
+              "examples": []
+            },
+            {
+              "def": " from a source that can be trusted or believed:",
+              "examples": [
+                "I got the news straight from the horse's mouth."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Hold your horses; we'll be there in a minute."
+              ]
+            },
+            {
+              "def": " to be critical of a gift.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a large, solid-hoofed, herbivorous quadruped, ",
+              "examples": []
+            },
+            {
+              "def": "a fully mature male animal of this type;",
+              "examples": []
+            },
+            {
+              "def": "any of several odd-toed ungulates belonging to the family Equidae, including the horse, zebra, donkey, and ass, having a thick, flat coat with a narrow mane along the back of the neck and bearing the weight on only one functioning digit, the third, which is widened into a round or spade-shaped hoof.",
+              "examples": []
+            },
+            {
+              "def": "something on which a person rides, sits, or exercises, as if astride the back of such an animal:",
+              "examples": [
+                "rocking horse."
+              ]
+            },
+            {
+              "def": "Also called  ",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "carriage (def. 7).",
+              "examples": []
+            },
+            {
+              "def": "soldiers serving on horseback;",
+              "examples": [
+                "a thousand horse."
+              ]
+            },
+            {
+              "def": "a man;",
+              "examples": []
+            },
+            {
+              "def": "Often,  ",
+              "examples": []
+            },
+            {
+              "def": " the power or capacity to accomplish something, as by having enough money, personnel, or expertise:",
+              "examples": [
+                "Our small company doesn't have the horses to compete against a giant corporation."
+              ]
+            },
+            {
+              "def": "a knight.",
+              "examples": []
+            },
+            {
+              "def": "a crib, translation, or other illicit aid to a student's recitation;",
+              "examples": []
+            },
+            {
+              "def": "a mass of rock enclosed within a lode or vein.",
+              "examples": []
+            },
+            {
+              "def": "traveler (def. 6b).",
+              "examples": []
+            },
+            {
+              "def": "a mold of a curved frame, esp. one used when the complexity of the curves requires laying out at full size.",
+              "examples": []
+            },
+            {
+              "def": "heroin.",
+              "examples": []
+            },
+            {
+              "def": " to be mistaken in judgment, esp. in backing a losing candidate.",
+              "examples": []
+            },
+            {
+              "def": " or  ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "I have it straight from the horse's mouth that the boss is retiring."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Hold your horses! I'm almost ready."
+              ]
+            },
+            {
+              "def": " something entirely different. Also,  ",
+              "examples": []
+            },
+            {
+              "def": " to be critical of a gift.",
+              "examples": []
+            },
+            {
+              "def": " Mount your horse! Ride!",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to provide with a horse or horses.",
+              "examples": []
+            },
+            {
+              "def": "to set on horseback.",
+              "examples": []
+            },
+            {
+              "def": "to set or carry on a person's back or on one's own back.",
+              "examples": []
+            },
+            {
+              "def": "to cut notches for steps into (a carriage beam).",
+              "examples": []
+            },
+            {
+              "def": "to move with great physical effort or force:",
+              "examples": [
+                "It took three men to horse the trunk up the stairs."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "to place (someone) on a person's back, in order to be flogged.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to mount or go on a horse.",
+              "examples": []
+            },
+            {
+              "def": "(of a mare) to be in heat.",
+              "examples": []
+            },
+            {
+              "def": "to have coitus.",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "of, for, or pertaining to a horse or horses:",
+              "examples": [
+                "the horse family; a horse blanket."
+              ]
+            },
+            {
+              "def": "drawn or powered by a horse or horses.",
+              "examples": []
+            },
+            {
+              "def": "mounted or serving on horses:",
+              "examples": [
+                "horse troops."
+              ]
+            },
+            {
+              "def": "unusually large.",
+              "examples": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
