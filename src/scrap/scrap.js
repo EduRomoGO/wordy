@@ -50,10 +50,28 @@ const scrap = (html, word) => {
         }
     };
 
+    const getPhonemics = () => {
+        const phonemics = $('.pronWR')[0].children;
+
+        if (phonemics.length === 2) {
+            return phonemics[1].data;
+        } else {
+            phonemics.shift();
+
+            return phonemics.map(child => {
+                if (child.data) {
+                    return child.data;
+                } else {
+                    return child.children[0].data;
+                }
+            }).join('');
+        }
+    };
+
     const fullData = {
         definitions,
         audio: definitions.length ? getAudio() : '',
-        phonemics: definitions.length ? $('.pronWR')[0].children[1].data : '',
+        phonemics: definitions.length ? getPhonemics() : '',
     };
 
     return fullData;
