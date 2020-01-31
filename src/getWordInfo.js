@@ -15,6 +15,7 @@ const createDescriptor = ({audio, phonemics, definitions, word}) => {
         definitions,
         protocol: 'https',
         extension: 'mp3',
+        idAudio,
         url: `https://www.wordreference.com/audio/en/uk/general/${idAudio}`,
     };
 };
