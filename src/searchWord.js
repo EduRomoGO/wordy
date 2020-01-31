@@ -1,6 +1,6 @@
 // [ ] comprobar que se hace correctamente, o que si da errores indique porque
 
-const scrap = require('./scrap.js')
+const { scrap } = require('./scrap/scrap.js')
 const axios = require('axios')
 
 const getWordHtml = (word) => {
@@ -15,12 +15,12 @@ const getWordHtml = (word) => {
 
 
 const searchWord = async word => {
-    const html = await getWordHtml(word);
+    const { data: html } = await getWordHtml(word);
 
     return scrap(html);
 }
 
-console.log(searchWord('romantic'));
+// searchWord('romantic').then(data => console.log(data));
 
 module.exports = { searchWord };
 

@@ -42,7 +42,7 @@ const scrap = (html) => {
     const fullData = {
         definitions,
         audio: definitions.length ? $('#aud0').children()[0].attribs.src : '',
-        phonemics: definitions.length ? $('.pronWR')[0].children[1].definitions : '',
+        phonemics: definitions.length ? $('.pronWR')[0].children[1].data : '',
     };
 
     return fullData;
