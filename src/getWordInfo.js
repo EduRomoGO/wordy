@@ -28,15 +28,11 @@ const getWordInfo = async word => {
             const descriptor = createDescriptor({...data, word});
             
             saveDescriptorToDb(descriptor);
-            getAudioFile({audio: data.audio, word: data.word});
+            getAudioFile({audio: data.audio, word});
             
-            console.log('=====================')
-            console.log(`Successfully searched ${word}, created its descriptor, saved it to db and retrieved its audio file`);
-            console.log('=====================')
-            console.log(' ');
-            console.log(' ');
+            return `Word "${word}" descriptor has been saved to db`;
         } else {
-            console.log(`Word "${word}" has not any definitions, so it wont be stored in the db`);
+            return `Word "${word}" has not any definitions, so it wont be stored in the db`;
         }
     } catch (error) {
         throw new Error(`Error while getting word info for word: "${word}" --> ${error}`);

@@ -11,6 +11,7 @@ const getAudioFile = ({ word, audio }) => {
             response.pipe(file);
             
             file.on('finish', function() {
+                console.log(`Word "${word}" audio file has been created successfully`);
                 file.close();
             });
         });

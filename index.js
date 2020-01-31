@@ -18,7 +18,12 @@ const getWordsInfo = words => {
     // Make sure that calls are sequential (one every 20-30 secs) to avoid penalizations from wr
     words.forEach(word => {
         if (isNotInDb(word)) {
-            setTimeout(() => getWordInfo(word), timeoutAcc);
+            setTimeout(async () => {
+                console.log(`Start searching for word "${word}"`);
+                const msg = await getWordInfo(word);
+
+                console.log(msg);
+            }, timeoutAcc);
         
             timeoutAcc += getWaitSeconds() * 1000;
         } else {
@@ -28,8 +33,9 @@ const getWordsInfo = words => {
 };
 
 
-const words = get20kWords().slice(100, 500);
+// const words = get20kWords().slice(100, 500);
 // const words = getWordsFromText();
+const words = ['horse'];
 
 getWordsInfo(words);
 
