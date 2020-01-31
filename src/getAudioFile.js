@@ -14,6 +14,8 @@ const getAudioFile = ({ word, audio }) => {
                 file.close();
             });
         });
+    } else {
+        console.log(`Word "${word}" has no valid audio id, so it wont get an audio file`);
     }
 };
 
