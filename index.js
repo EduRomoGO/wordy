@@ -28,8 +28,8 @@ const getWordsInfo = words => {
 };
 
 
-// const words = get20kWords().slice(0, 100);
-const words = getWordsFromText();
+const words = get20kWords().slice(100, 500);
+// const words = getWordsFromText();
 
 getWordsInfo(words);
 
