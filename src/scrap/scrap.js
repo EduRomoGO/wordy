@@ -64,7 +64,7 @@ const scrap = (html, word) => {
                 } else {
                     return child.children[0].data;
                 }
-            }).join('');
+            }).join('').trim();
         }
     };
 
