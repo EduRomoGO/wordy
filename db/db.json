@@ -118008,55 +118008,6 @@
       "url": "https://www.wordreference.com/audio/en/uk/general/en039194.mp3"
     },
     {
-      "word": "header",
-      "phonemics": "/ˈhɛdə",
-      "definitions": [
-        {
-          "class": "n.",
-          "defs": [
-            {
-              "def": "a person or thing that removes or puts a head on something.",
-              "examples": []
-            },
-            {
-              "def": "a reaping machine that cuts off and gathers only the heads of the grain.",
-              "examples": []
-            },
-            {
-              "def": "a chamber to which the ends of a number of tubes are connected so that water or steam may pass freely from one tube to the other.",
-              "examples": []
-            },
-            {
-              "def": "an exhaust manifold.",
-              "examples": []
-            },
-            {
-              "def": "\n",
-              "examples": []
-            },
-            {
-              "def": "a plunge or dive headfirst, as into water:",
-              "examples": [
-                "He stumbled and took a header into the ditch."
-              ]
-            },
-            {
-              "def": "a pass or shot made by heading the ball.",
-              "examples": []
-            },
-            {
-              "def": "a sign that is part of or attached to the top of a rack displaying merchandise.",
-              "examples": []
-            },
-            {
-              "def": "a line of information placed at the top of a page for purposes of identification.",
-              "examples": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "word": "horse",
       "phonemics": "/ˈhɔː",
       "definitions": [
@@ -118308,6 +118259,55 @@
             },
             {
               "def": "unusually large.",
+              "examples": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "header",
+      "phonemics": "/ˈhɛdə",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a person or thing that removes or puts a head on something.",
+              "examples": []
+            },
+            {
+              "def": "a reaping machine that cuts off and gathers only the heads of the grain.",
+              "examples": []
+            },
+            {
+              "def": "a chamber to which the ends of a number of tubes are connected so that water or steam may pass freely from one tube to the other.",
+              "examples": []
+            },
+            {
+              "def": "an exhaust manifold.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "a plunge or dive headfirst, as into water:",
+              "examples": [
+                "He stumbled and took a header into the ditch."
+              ]
+            },
+            {
+              "def": "a pass or shot made by heading the ball.",
+              "examples": []
+            },
+            {
+              "def": "a sign that is part of or attached to the top of a rack displaying merchandise.",
+              "examples": []
+            },
+            {
+              "def": "a line of information placed at the top of a page for purposes of identification.",
               "examples": []
             }
           ]
