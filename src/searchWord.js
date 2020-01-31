@@ -1,4 +1,4 @@
-const { scrap } = require('./scrap/scrap.js')
+const { scrap } = require('./util/scrap.js')
 const axios = require('axios')
 
 const getWordHtml = (word) => {
