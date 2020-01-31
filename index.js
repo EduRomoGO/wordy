@@ -41,6 +41,6 @@ const getWordsInfo = words => {
 // const words = get20kWords().slice(100, 500);
 // const words = getWrongWords();
 // const words = getWordsFromText();
-const words = allWords.slice(0, 40);
+const words = allWords.slice(100, 500);
 
 getWordsInfo(words);

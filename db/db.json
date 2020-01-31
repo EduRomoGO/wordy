@@ -119663,6 +119663,228 @@
         }
       ],
       "url": ""
+    },
+    {
+      "word": "been",
+      "phonemics": "strong: /ˈbɪn/,  weak: /ˈbiːn/",
+      "definitions": [
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": " ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "pp. of  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to have (the quality, job, etc., mentioned);",
+              "examples": [
+                "Wilt is tall. I am Barbara. Indira Gandhi was the first woman prime minister of India."
+              ]
+            },
+            {
+              "def": "to exist or live: ",
+              "examples": [
+                " A man with five cats lives/exists on my street)."
+              ]
+            },
+            {
+              "def": "to take place;",
+              "examples": [
+                "The wedding was last week."
+              ]
+            },
+            {
+              "def": "to occupy a place or position:  ",
+              "examples": []
+            },
+            {
+              "def": "to belong to a group:",
+              "examples": [
+                "Whales are mammals."
+              ]
+            },
+            {
+              "def": "to continue or remain as before: ",
+              "examples": [
+                "Let things be."
+              ]
+            },
+            {
+              "def": "(used as a verb to introduce a question or in a command, request, or piece of advice):",
+              "examples": [
+                "Is that right? Be quiet! Don't be so mean. Be careful about what you say."
+              ]
+            },
+            {
+              "def": "(used after ",
+              "examples": [
+                "It was she who was late for the class (real subject = \"she''). There was a fly in my soup (real subject = \"fly'').",
+                "There was a fly in my soup (\"was'' agrees with \"fly''); There were flies in my soup (\"were'' agrees with \"flies'')."
+              ]
+            },
+            {
+              "def": "(used in a short answer where it stands for a longer phrase that has ",
+              "examples": [
+                "Is he coming? Yes, he is (=  Yes, he is coming.) Are you the new president of the Chinese club? No, I am not (= No, I am not the new president of the Chinese club)."
+              ]
+            },
+            {
+              "def": "(used in a short question, called a tag question, that comes after a subject and verb to ask for the listener's agreement):",
+              "examples": [
+                "She is not very pretty, is  she? You are running pretty hard, aren't you?"
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "(used with the ",
+              "examples": [
+                "I am waiting. We were talking ."
+              ]
+            },
+            {
+              "def": "(used with ",
+              "examples": [
+                " I will start my new job next week)."
+              ]
+            },
+            {
+              "def": "(used with the past participle of another verb to form the passive voice, that is, to show the action of the verb has been done to the subject of the sentence): ",
+              "examples": [
+                "The policeman was shot. Your passports have been sent on."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to exist or live:",
+              "examples": [
+                "Shakespeare's \"To be or not to be'' is the ultimate question."
+              ]
+            },
+            {
+              "def": "to take place;",
+              "examples": [
+                "The wedding was last week."
+              ]
+            },
+            {
+              "def": "to occupy a place or position:",
+              "examples": [
+                "The book is on the table."
+              ]
+            },
+            {
+              "def": "to continue or remain as before:",
+              "examples": [
+                "Let things be."
+              ]
+            },
+            {
+              "def": "to belong;",
+              "examples": [
+                "May good fortune be with you."
+              ]
+            },
+            {
+              "def": "(used as a copula to connect the subject with its predicate adjective, or predicate nominative, in order to describe, identify, or amplify the subject):",
+              "examples": [
+                "Martha is tall. John is president. This is she."
+              ]
+            },
+            {
+              "def": "(used as a copula to introduce or form interrogative or imperative sentences):",
+              "examples": [
+                "Is that right? Be quiet! Don't be facetious."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "auxiliary v., pres. sing. 1st pers.",
+          "defs": [
+            {
+              "def": "(used with the present participle of another verb to form the progressive tense):",
+              "examples": [
+                "I am waiting."
+              ]
+            },
+            {
+              "def": "(used with the present participle or infinitive of the principal verb to indicate future action):",
+              "examples": [
+                "She is visiting there next week. He is to see me today."
+              ]
+            },
+            {
+              "def": "(used with the past participle of another verb to form the passive voice):",
+              "examples": [
+                "The date was fixed. It must be done."
+              ]
+            },
+            {
+              "def": "(used in archaic or literary constructions with some intransitive verbs to form the perfect tense):",
+              "examples": [
+                "He is come. Agamemnon to the wars is gone."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "2nd",
+          "defs": [
+            {
+              "def": "beryllium.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "3rd",
+          "defs": [
+            {
+              "def": "Bachelor of Education.",
+              "examples": []
+            },
+            {
+              "def": "Bachelor of Engineering.",
+              "examples": []
+            },
+            {
+              "def": "Bank of England.",
+              "examples": []
+            },
+            {
+              "def": "bill of exchange.",
+              "examples": []
+            },
+            {
+              "def": "Board of Education.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
     }
   ]
 }
