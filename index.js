@@ -1,8 +1,6 @@
 const { getWordInfo } = require('./src/getWordInfo.js');
 const { getWaitSeconds } = require('./src/util/randomFromSet.js');
 const { db } = require('./src/dbCreator.js');
-const { get20kWords } = require('./src/util/parse20kWords.js');
-const { getWordsFromText } = require('./src/util/parseText.js');
 const { getWrongWords } = require('./src/util/dbAnalysis.js');
 const { words: allWords } = require('./db/source20kwords.json');
 
