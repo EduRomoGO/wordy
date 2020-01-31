@@ -8,7 +8,7 @@ const textContent = (el, $) => {
     }
 };
 
-const scrap = (html) => {
+const scrap = (html, word) => {
     let $ = cheerio.load(html)
     let rhs = $('.entryRH')
     let currentClazzName = ''
@@ -39,9 +39,20 @@ const scrap = (html) => {
         })
     });
 
+
+    const getAudio = () => {
+        const audioNode = $('#aud0');
+
+        if (audioNode.children().length > 0) {
+            return audioNode.children()[0].attribs.src;
+        } else {
+            console.log(`Audio node ${audioNode} for the word "${word}" has no children`);
+        }
+    };
+
     const fullData = {
         definitions,
-        audio: definitions.length ? $('#aud0').children()[0].attribs.src : '',
+        audio: definitions.length ? getAudio() : '',
         phonemics: definitions.length ? $('.pronWR')[0].children[1].data : '',
     };
 
