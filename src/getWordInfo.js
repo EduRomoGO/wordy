@@ -2,7 +2,7 @@ const { db } = require('./dbCreator.js');
 const { getAudioFile } = require('./getAudioFile.js');
 const { searchWord } = require('./searchWord.js');
 
-db.defaults({ wordDescriptors: [] })
+db.defaults({ wordDescriptors: [], noDef: [] })
     .write();
 
 
@@ -28,6 +28,12 @@ const saveDescriptorToDb = descriptor => {
         .write();
 };
 
+const saveNoDef = word => {
+    db.get('noDef')
+        .push(word)
+        .write();
+};
+
 const getWordInfo = async word => {
     try {
         const data = await searchWord(word);
@@ -50,6 +56,7 @@ const getWordInfo = async word => {
             
             return `Word "${word}" descriptor has been saved to db`;
         } else {
+            saveNoDef(word);
             return `Word "${word}" has not any definitions, so it wont be stored in the db`;
         }
     } catch (error) {

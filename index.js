@@ -5,9 +5,14 @@ const { getWrongWords } = require('./src/util/dbAnalysis.js');
 const { words: allWords } = require('./db/source20kwords.json');
 
 const isNotInDb = word => {
-    const wordsInDb = db.get('wordDescriptors')
+    const wordsWithDefInDb = db.get('wordDescriptors')
         .map('word')
         .value();
+
+    const wordsWithNoDefInDb = db.get('noDef')
+        .value();
+    
+    const wordsInDb = [...wordsWithDefInDb, ...wordsWithNoDefInDb];
 
     return !wordsInDb.includes(word);
 }
@@ -38,9 +43,7 @@ const getWordsInfo = words => {
     });
 };
 
-// const words = get20kWords().slice(100, 500);
 // const words = getWrongWords();
-// const words = getWordsFromText();
 const words = allWords.slice(100, 500);
 
 getWordsInfo(words);
