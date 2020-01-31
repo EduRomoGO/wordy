@@ -1,12 +1,10 @@
-const { wrDefinition } = require('wordreference-definition-api');
-let def = wrDefinition();
 const { db } = require('./dbCreator.js');
 const { getAudioFile } = require('./getAudioFile.js');
+const { searchWord } = require('./searchWord.js');
 
 db.defaults({ wordDescriptors: [] })
     .write();
 
-const searchWord = word => def.define(word);
 
 const createDescriptor = ({audio, phonemics, definitions, word}) => {
     const idAudio = audio.split('/').pop();
