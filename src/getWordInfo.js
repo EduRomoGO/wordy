@@ -6,16 +6,11 @@ db.defaults({ wordDescriptors: [] })
     .write();
 
 
-const createDescriptor = ({audio, phonemics, definitions, word}) => {
-    const idAudio = audio.split('/').pop();
-
+const createDescriptor = ({phonemics, definitions, word}) => {
     return {
         word,
         phonemics,
         definitions,
-        protocol: 'https',
-        extension: 'mp3',
-        url: `https://www.wordreference.com/audio/en/uk/general/${idAudio}`,
     };
 };
 
@@ -33,7 +28,7 @@ const getWordInfo = async word => {
             const descriptor = createDescriptor({...data, word});
             
             saveDescriptorToDb(descriptor);
-            getAudioFile(descriptor);
+            getAudioFile({audio: data.audio, word: data.word});
             
             console.log('=====================')
             console.log(`Successfully searched ${word}, created its descriptor, saved it to db and retrieved its audio file`);
