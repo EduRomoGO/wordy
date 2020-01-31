@@ -37,12 +37,3 @@ const words = get20kWords().slice(100, 500);
 // const words = getWordsFromText();
 
 getWordsInfo(words);
-
-
-// const fullData = {
-//     definitions: data,
-//     audio: data.length ? $('#aud0').children()[0].attribs.src : '',
-//     pronunciation: data.length ? $('.pronWR')[0].children[1].data : '',
-// };
-
-// return fullData;
