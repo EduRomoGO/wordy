@@ -3,6 +3,7 @@ const { getWaitSeconds } = require('./src/util/randomFromSet.js');
 const { get20kWords } = require('./src/util/parse20kWords.js');
 const { getWordsFromText } = require('./src/util/parseText.js');
 const { db } = require('./src/dbCreator.js');
+const { getWrongWords } = require('./src/util/dbAnalysis.js');
 
 const isNotInDb = word => {
     const wordsInDb = db.get('wordDescriptors')
@@ -32,8 +33,8 @@ const getWordsInfo = words => {
     });
 };
 
-
 const words = get20kWords().slice(100, 500);
+// const words = getWrongWords();
 // const words = getWordsFromText();
 
 getWordsInfo(words);
