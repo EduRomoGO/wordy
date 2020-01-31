@@ -119885,6 +119885,523 @@
         }
       ],
       "url": ""
+    },
+    {
+      "word": "posted",
+      "phonemics": "/ˈpəʊstɪd/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a piece of wood or metal put into the ground so that it stands upright and used as a support, a point to attach things, etc.",
+              "examples": []
+            },
+            {
+              "def": "one of the main upright pieces of a piece of furniture.",
+              "examples": []
+            },
+            {
+              "def": "a goalpost.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to put up (a public notice) on a post or wall:",
+              "examples": [
+                "They posted several flyers announcing the concert."
+              ]
+            },
+            {
+              "def": "to bring to public attention by means of a poster or the like:",
+              "examples": [
+                "to post a reward."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a position of duty or trust to which one is assigned:",
+              "examples": [
+                "a diplomatic post."
+              ]
+            },
+            {
+              "def": "a military station with permanent buildings:",
+              "examples": [
+                "decided to close down some army posts."
+              ]
+            },
+            {
+              "def": "the body of troops in that station.",
+              "examples": []
+            },
+            {
+              "def": "a place in the stock exchange where a particular stock is traded.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to assign, place, or station at a post:",
+              "examples": [
+                "The detachment was posted to the front of the battle."
+              ]
+            },
+            {
+              "def": "to provide or put up, as bail:",
+              "examples": [
+                "He posted bail and was out on the streets only five hours after his arrest."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "\n",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to supply with up-to-date information:",
+              "examples": [
+                "Keep me posted on your activities."
+              ]
+            },
+            {
+              "def": "to send by mail:",
+              "examples": [
+                "posted several letters to her."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a strong piece of timber, metal, or the like, set upright as a support, a point of attachment, a place for displaying notices, etc.",
+              "examples": []
+            },
+            {
+              "def": "one of the principal uprights of a piece of furniture, as one supporting a chair back or forming one corner of a chest of drawers. Cf.  ",
+              "examples": []
+            },
+            {
+              "def": "a stack of 144 sheets of handmolded paper, interleaved with felt.",
+              "examples": []
+            },
+            {
+              "def": "a pole on a racetrack indicating the point where a race begins or ends:",
+              "examples": [
+                "the starting post."
+              ]
+            },
+            {
+              "def": "the lane of a racetrack farthest from the infield;",
+              "examples": []
+            },
+            {
+              "def": "a message that is sent to a newsgroup.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to affix (a notice, bulletin, etc.) to a post, wall, or the like.",
+              "examples": []
+            },
+            {
+              "def": "to bring to public notice by or as by a poster or bill:",
+              "examples": [
+                "to post a reward."
+              ]
+            },
+            {
+              "def": "to denounce by a public notice or declaration:",
+              "examples": [
+                "They were posted as spies."
+              ]
+            },
+            {
+              "def": "to publish the name of in a list:",
+              "examples": [
+                "to post a student on the dean's list."
+              ]
+            },
+            {
+              "def": "to publish the name of (a ship) as missing or lost.",
+              "examples": []
+            },
+            {
+              "def": "to placard (a wall, fence, etc.) with notices, bulletins, etc.:",
+              "examples": [
+                "The wall was posted with announcements."
+              ]
+            },
+            {
+              "def": "to put up signs on (land or other property) forbidding trespassing::",
+              "examples": [
+                "The estate has been posted by the owner."
+              ]
+            },
+            {
+              "def": "to send (a message) to a newsgroup.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "to send a message to a newsgroup.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "a position of duty, employment, or trust to which one is assigned or appointed:",
+              "examples": [
+                "a diplomatic post."
+              ]
+            },
+            {
+              "def": "the station or rounds of a person on duty, as a soldier, sentry or nurse.",
+              "examples": []
+            },
+            {
+              "def": "a military station with permanent buildings.",
+              "examples": []
+            },
+            {
+              "def": "a local unit of a veterans' organization.",
+              "examples": []
+            },
+            {
+              "def": "See  ",
+              "examples": []
+            },
+            {
+              "def": "a place in the stock exchange where a particular stock is traded.",
+              "examples": []
+            },
+            {
+              "def": "(in the British military services) either of two bugle calls",
+              "examples": []
+            },
+            {
+              "def": "the body of troops occupying a military station.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to place or station at a post.",
+              "examples": []
+            },
+            {
+              "def": "to provide or put up, as bail.",
+              "examples": []
+            },
+            {
+              "def": "to appoint to a post of command.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "See  ",
+              "examples": []
+            },
+            {
+              "def": "(formerly) one of a series of stations along a route, for furnishing relays of men and horses for carrying mail, currency, etc.",
+              "examples": []
+            },
+            {
+              "def": "(formerly) a person who traveled express, esp. over a fixed route, carrying mail, currency, etc.",
+              "examples": []
+            },
+            {
+              "def": "a size of printing paper or, esp. in Britain, of drawing or writing paper, about 16 × 20 in. (41 × 51 cm).",
+              "examples": []
+            },
+            {
+              "def": " a size of book, from about 5 × 8 in. to 5¼ × 8¼ in. (13 × 20 cm to 13&fracnumer;",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to place in a post office or a mailbox for transmission;",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "to supply with up-to-date information;",
+              "examples": [
+                "Keep me posted on his activities."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to rise from and descend to the saddle in accordance with the rhythm of a horse at a trot.",
+              "examples": []
+            },
+            {
+              "def": "to travel with speed;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "with speed or haste;",
+              "examples": []
+            },
+            {
+              "def": "by post or courier.",
+              "examples": []
+            },
+            {
+              "def": "with post horses.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": " 1854–1914, U.S. businessman: developed breakfast foods.",
+              "examples": []
+            },
+            {
+              "def": " 1873?–1960, U.S. writer on social etiquette.",
+              "examples": []
+            },
+            {
+              "def": " 1837–1913, U.S. architect.",
+              "examples": []
+            },
+            {
+              "def": " 1899–1935, U.S. aviator.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "a message that is sent to a newsgroup.",
+              "examples": []
+            },
+            {
+              "def": "text that is placed on a Web site.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to send (a message) to a newsgroup.",
+              "examples": []
+            },
+            {
+              "def": "to place (text) on a Web site.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "women",
+      "phonemics": "/ˈwɪmɪn/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "pl. of  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": " an adult female person.",
+              "examples": []
+            },
+            {
+              "def": " a female servant or attendant.",
+              "examples": []
+            },
+            {
+              "def": " women thought of as a group;",
+              "examples": []
+            },
+            {
+              "def": "feminine nature, characteristics, or feelings.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "female:",
+              "examples": [
+                "a woman plumber; a woman astronaut."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "the female human being (distinguished from ",
+              "examples": []
+            },
+            {
+              "def": "an adult female person.",
+              "examples": []
+            },
+            {
+              "def": "a female attendant to a lady of rank.",
+              "examples": []
+            },
+            {
+              "def": "a wife.",
+              "examples": []
+            },
+            {
+              "def": "the nature, characteristics, or feelings often attributed to women;",
+              "examples": []
+            },
+            {
+              "def": "a sweetheart or paramour;",
+              "examples": []
+            },
+            {
+              "def": "a female employee or representative:",
+              "examples": [
+                "A woman from the real estate agency called."
+              ]
+            },
+            {
+              "def": "a female person who cleans house, cooks, etc.;",
+              "examples": [
+                "The woman will be in to clean today."
+              ]
+            },
+            {
+              "def": "women collectively:",
+              "examples": [
+                "Woman is no longer subordinate to man."
+              ]
+            },
+            {
+              "def": " (of females) to be free from restrictions, control, or dictatorial influence;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v., adj.",
+          "defs": [
+            {
+              "def": "to put into the company of a woman.",
+              "examples": []
+            },
+            {
+              "def": "to equip or staff with women.",
+              "examples": []
+            },
+            {
+              "def": "to cause to act or yield like a woman.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "of women;",
+              "examples": []
+            },
+            {
+              "def": "female:",
+              "examples": [
+                "a woman plumber."
+              ]
+            }
+          ]
+        }
+      ],
+      "url": ""
     }
+  ],
+  "noDef": [
+    "ebay",
+    "dvd",
+    "website"
   ]
 }
