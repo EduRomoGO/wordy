@@ -25,29 +25,35 @@ const savePluralWords = words => {
         .write();
 };
 
-const 
-
 const getPluralWords = () => {
-    const words = [];
     const pluralWords = [];
 
     wordsEndingInS
         .forEach(word => {
             if (word.length > 3) {
-                singularWord = word.slice(0, -1);
-                allWords.includes(singularWord) ? pluralWords.push(word) : words.push(word);
-            } else {
-                words.push(word);
+                const singularWord = word.slice(0, -1);
+
+                if (allWords.includes(singularWord)) {
+                    pluralWords.push(word)
+                }
             }
         });
     
-    console.log(pluralWords.length)
-    saveWords(words);
-    savePluralWords(pluralWords);
+    return pluralWords;
 };
 
 
 // console.log(wordsEndingInS.length);
 
-getPluralWords();
+
+const process = () => {
+    const pluralWords = getPluralWords();
+    const normalWords = allWords.filter(word => !pluralWords.includes(word));
+
+    saveWords(normalWords);
+    savePluralWords(pluralWords);
+};
+
+process();
+
 // console.log(superShort);
