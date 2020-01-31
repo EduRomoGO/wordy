@@ -1,10 +1,7 @@
 var https = require('https');
 var fs = require('fs');
 
-const getAudioFile = ({ word, audio }) => {
-    if (audio) {
-        const idAudio = audio.split('/').pop();
-        const url = `https://www.wordreference.com/audio/en/uk/general/${idAudio}`;
+const getAudioFile = ({ word, url }) => {
         let file = fs.createWriteStream(`./db/audioFiles/${word}.mp3`);
                 
         https.get(url, function(response) {
@@ -15,9 +12,6 @@ const getAudioFile = ({ word, audio }) => {
                 file.close();
             });
         });
-    } else {
-        console.log(`Word "${word}" has no valid audio id, so it wont get an audio file`);
-    }
 };
 
 module.exports = { getAudioFile };

@@ -6,11 +6,12 @@ db.defaults({ wordDescriptors: [] })
     .write();
 
 
-const createDescriptor = ({phonemics, definitions, word}) => {
+const createDescriptor = ({phonemics, definitions, word, url}) => {
     return {
         word,
         phonemics,
         definitions,
+        url,
     };
 };
 
@@ -32,10 +33,20 @@ const getWordInfo = async word => {
         const data = await searchWord(word);
         
         if (data.definitions.length > 0) {
-            const descriptor = createDescriptor({...data, word});
-            
+            let url = '';
+
+            if (data.audio) {
+                const idAudio = data.audio.split('/').pop();
+                url = `https://www.wordreference.com/audio/en/uk/general/${idAudio}`;
+
+                getAudioFile({url, word});
+            } else {
+                console.log(`Word "${word}" has no valid audio id, so it wont get an audio file`);
+            }
+
+            const descriptor = createDescriptor({...data, word, url});
+
             saveDescriptorToDb(descriptor);
-            getAudioFile({audio: data.audio, word});
             
             return `Word "${word}" descriptor has been saved to db`;
         } else {
