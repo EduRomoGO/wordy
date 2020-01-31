@@ -46,25 +46,33 @@ const scrap = (html, word) => {
         if (audioNode.children().length > 0) {
             return audioNode.children()[0].attribs.src;
         } else {
-            console.log(`Audio node ${audioNode} for the word "${word}" has no children`);
+            console.log(`Audio node for the word "${word}" has no children`);
         }
     };
 
     const getPhonemics = () => {
-        const phonemics = $('.pronWR')[0].children;
+        const phonemicsNode = $('.pronWR')[0];
+        
+        if (phonemicsNode) {
+            const phonemics = phonemicsNode.children;
 
-        if (phonemics.length === 2) {
-            return phonemics[1].data;
+            if (phonemics.length === 2) {
+                return phonemics[1].data;
+            } else {
+                phonemics.shift();
+
+                return phonemics.map(child => {
+                    if (child.data) {
+                        return child.data;
+                    } else {
+                        return child.children[0].data;
+                    }
+                }).join('').trim();
+            }
         } else {
-            phonemics.shift();
+            console.log(`Word ${word} doesnt have phonemics`);
 
-            return phonemics.map(child => {
-                if (child.data) {
-                    return child.data;
-                } else {
-                    return child.children[0].data;
-                }
-            }).join('').trim();
+            return '';
         }
     };
 
