@@ -15,6 +15,13 @@ const createDescriptor = ({phonemics, definitions, word}) => {
 };
 
 const saveDescriptorToDb = descriptor => {
+    // Update
+    // db.get('wordDescriptors')
+    //     .find({ word: descriptor.word })
+    //     .assign(descriptor)
+    //     .write()
+    
+    // Create
     db.get('wordDescriptors')
         .push(descriptor)
         .write();
