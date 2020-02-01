@@ -120417,11 +120417,3663 @@
         }
       ],
       "url": ""
+    },
+    {
+      "word": "using",
+      "phonemics": "",
+      "definitions": [
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": " to employ for some purpose:",
+              "examples": [
+                "[~ + object]to use a knife to cut the meat."
+              ]
+            },
+            {
+              "def": " to apply (something) to one's own purposes:",
+              "examples": [
+                "[~ + object]to use the bathroom."
+              ]
+            },
+            {
+              "def": "to consume, expend, or exhaust: ",
+              "examples": [
+                "[~ (+ up) + object]We've used (up) the money.",
+                "[~ + object + (up)]We've used the money (up)."
+              ]
+            },
+            {
+              "def": " to treat or behave toward:",
+              "examples": [
+                "[~ + object]He used his employees well."
+              ]
+            },
+            {
+              "def": " to take unfair advantage of;",
+              "examples": [
+                "[~ + object]was just using him for his money and social contacts."
+              ]
+            },
+            {
+              "def": " to consume or take habitually:",
+              "examples": [
+                "[~ + object]to use drugs."
+              ]
+            },
+            {
+              "def": " to be customarily found doing (expresses habitual or customary actions in the past):",
+              "examples": [
+                "[past tense of use + to + verb]He used to go to school every day."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": " the act of using or the state of being used.",
+              "examples": []
+            },
+            {
+              "def": " an instance or way of using something:",
+              "examples": [
+                "[countable]a painter's use of color."
+              ]
+            },
+            {
+              "def": " a way of being used;",
+              "examples": [
+                "[countable]Describe some of the uses of a wrench."
+              ]
+            },
+            {
+              "def": " the power, right, or privilege of using something:",
+              "examples": [
+                "[uncountable]to lose the use of an eye."
+              ]
+            },
+            {
+              "def": " utility;",
+              "examples": [
+                "[uncountable]of no practical use."
+              ]
+            },
+            {
+              "def": " help;",
+              "examples": [
+                "[uncountable]What's the use of complaining?"
+              ]
+            },
+            {
+              "def": " need:",
+              "examples": [
+                "[uncountable]Have you any use for another calendar?"
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": " ",
+              "examples": [
+                "to have no use for petty thieves."
+              ]
+            },
+            {
+              "def": " being used:",
+              "examples": [
+                "The laboratory is in use."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "He makes use of his purchases."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "He puts his computer to good use."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to employ for some purpose;",
+              "examples": [
+                "to use a knife."
+              ]
+            },
+            {
+              "def": "to avail oneself of;",
+              "examples": [
+                "to use the facilities."
+              ]
+            },
+            {
+              "def": "to expend or consume in use:",
+              "examples": [
+                "We have used the money provided."
+              ]
+            },
+            {
+              "def": "to treat or behave toward:",
+              "examples": [
+                "He did not use his employees with much"
+              ]
+            },
+            {
+              "def": "to take unfair advantage of;",
+              "examples": [
+                "to use people to gain one's own ends."
+              ]
+            },
+            {
+              "def": "to drink, smoke, or ingest habitually:",
+              "examples": [
+                "to use drugs."
+              ]
+            },
+            {
+              "def": "to habituate or accustom.",
+              "examples": []
+            },
+            {
+              "def": "to practice habitually or customarily;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to be accustomed, wont, or customarily found (used with an infinitive expressed or understood, and, except in archaic use, now only in the past):",
+              "examples": [
+                "He used to go every day."
+              ]
+            },
+            {
+              "def": "to resort, stay, or dwell customarily.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "By the end of the war he felt used up and sick of life."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "the act of employing, using, or putting into service:",
+              "examples": [
+                "the use of tools."
+              ]
+            },
+            {
+              "def": "the state of being employed or used.",
+              "examples": []
+            },
+            {
+              "def": "an instance or way of employing or using something:",
+              "examples": [
+                "proper use of the tool; the painter's use of color."
+              ]
+            },
+            {
+              "def": "a way of being employed or used;",
+              "examples": [
+                "He was of temporary use. The instrument has different uses."
+              ]
+            },
+            {
+              "def": "the power, right, or privilege of employing or using something:",
+              "examples": [
+                "to lose the use of the right eye; to be denied the use of a library card."
+              ]
+            },
+            {
+              "def": "service or advantage in or for being employed or used;",
+              "examples": [
+                "of no practical use."
+              ]
+            },
+            {
+              "def": "help;",
+              "examples": [
+                "What's the use of pursuing the matter?"
+              ]
+            },
+            {
+              "def": "occasion or need, as for something to be employed or used:",
+              "examples": [
+                "Would you have any use for another calendar?"
+              ]
+            },
+            {
+              "def": "continued, habitual, or customary employment or practice;",
+              "examples": [
+                "to follow the prevailing use of such occasions."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "the distinctive form of ritual or of any liturgical observance used in a particular church, diocese, community, etc.",
+              "examples": []
+            },
+            {
+              "def": "usual or customary experience.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "She appears to have no use for the city.",
+                "He had no use for his brother.",
+                "He has no use for dictators."
+              ]
+            },
+            {
+              "def": " to use for one's own purposes;",
+              "examples": [
+                "Charitable organizations will make use of your old furniture and clothing."
+              ]
+            },
+            {
+              "def": " of no advantage or help:",
+              "examples": [
+                "It's of no use to look for that missing earring. It's no use asking her to go."
+              ]
+            },
+            {
+              "def": " to apply;",
+              "examples": [
+                "What a shame that no one has put that old deserted mansion to use!"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "directory",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a book containing an alphabetical index of the names and addresses of persons in an area or organization:",
+              "examples": [
+                "the telephone directory."
+              ]
+            },
+            {
+              "def": "a board or tablet on a wall of a building listing the location of the occupants.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": [
+                "You can create a new directory by typing \"md.''",
+                "Bad news: your file is not listed in the directory."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a book containing an alphabetical index of the names and addresses of persons in a city, district, organization, etc., or of a particular category of people.",
+              "examples": []
+            },
+            {
+              "def": "a board or tablet on a wall of a building listing the room and floor numbers of the occupants.",
+              "examples": []
+            },
+            {
+              "def": "a book of directions.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "serving to direct;",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en1024921.mp3"
+    },
+    {
+      "word": "children",
+      "phonemics": "/ˈtʃɪldrən/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": " ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "pl. of  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a young boy or girl:",
+              "examples": [
+                "A young child doesn't usually want to share his or her toys."
+              ]
+            },
+            {
+              "def": "a son or daughter:",
+              "examples": [
+                "He has two children, a boy and a girl."
+              ]
+            },
+            {
+              "def": "a baby or infant:",
+              "examples": [
+                "the rights of the unborn child are to be balanced by the right to privacy of the mother."
+              ]
+            },
+            {
+              "def": "a person who behaves in a childish manner.",
+              "examples": []
+            },
+            {
+              "def": "any person or thing regarded as the product of particular circumstances or influences: ",
+              "examples": [
+                "Abstract art is a child of the 20th century."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "pl.",
+          "defs": [
+            {
+              "def": " (of a human female) pregnant.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a person between birth and full growth;",
+              "examples": [
+                "books for children."
+              ]
+            },
+            {
+              "def": "a son or daughter:",
+              "examples": [
+                "All my children are married."
+              ]
+            },
+            {
+              "def": "a baby or infant.",
+              "examples": []
+            },
+            {
+              "def": "a human fetus.",
+              "examples": []
+            },
+            {
+              "def": "a childish person:",
+              "examples": [
+                "He's such a child about money."
+              ]
+            },
+            {
+              "def": "a descendant:",
+              "examples": [
+                "a child of an ancient breed."
+              ]
+            },
+            {
+              "def": "any person or thing regarded as the product or result of particular agencies, influences, etc.:",
+              "examples": [
+                "Abstract art is a child of the 20th century."
+              ]
+            },
+            {
+              "def": "a person regarded as conditioned or marked by a given circumstance, situation, etc.:",
+              "examples": [
+                "a child of poverty; a child of famine."
+              ]
+            },
+            {
+              "def": "a female infant.",
+              "examples": []
+            },
+            {
+              "def": "childe.",
+              "examples": []
+            },
+            {
+              "def": " pregnant:",
+              "examples": [
+                "She's with child."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "a human fetus.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "york",
+      "phonemics": "/jɔːk/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a member of the royal house of England that ruled from 1461 to 1485.",
+              "examples": []
+            },
+            {
+              "def": " (",
+              "examples": []
+            },
+            {
+              "def": "Yorkshire (def. 1).",
+              "examples": []
+            },
+            {
+              "def": "Ancient,  ",
+              "examples": []
+            },
+            {
+              "def": "a city in SE Pennsylvania: meeting of the Continental Congress 1777–78. 44,619.",
+              "examples": []
+            },
+            {
+              "def": "an estuary in E Virginia, flowing SE into Chesapeake Bay. 40 mi. (64 km) long.",
+              "examples": []
+            },
+            {
+              "def": " a cape at the NE extremity of Australia.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "teen",
+      "phonemics": "/ˈtiːn/",
+      "definitions": [
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "teenage:",
+              "examples": [
+                "teen fashions."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a teenager.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "suffering;",
+              "examples": []
+            },
+            {
+              "def": "injury;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "teenage.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a teenager.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "men",
+      "phonemics": "/ˈmɛn/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "pl. of ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "root.",
+          "defs": [
+            {
+              "def": " comes from Latin, where it has the meaning \"mind.'' This meaning is found in such words as: ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "pl. of  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": " an adult male person, as distinguished from a boy or a woman:",
+              "examples": [
+                "[countable]The little boy had grown up to be a handsome man."
+              ]
+            },
+            {
+              "def": " a human being, or a person without regard to sex:",
+              "examples": [
+                "[countable]All men are created equal in the eyes of the law."
+              ]
+            },
+            {
+              "def": " the human individual as representing the species, without reference to sex;",
+              "examples": [
+                "[uncountable]It is written that man does not live by bread alone."
+              ]
+            },
+            {
+              "def": " a husband.",
+              "examples": []
+            },
+            {
+              "def": " a male lover or sweetheart.",
+              "examples": []
+            },
+            {
+              "def": " a male having qualities considered properly masculine:",
+              "examples": [
+                "[countable]The four years in the army made a man of him."
+              ]
+            },
+            {
+              "def": " a male servant or attendant.",
+              "examples": []
+            },
+            {
+              "def": "male friend;",
+              "examples": [
+                "[countable]Hey, it's my main man."
+              ]
+            },
+            {
+              "def": "(used as a term of familiar address):",
+              "examples": [
+                "[countable]Hey, man, take it easy."
+              ]
+            },
+            {
+              "def": " a playing piece used in certain games, as checkers.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "interj.",
+          "defs": [
+            {
+              "def": "used to express astonishment, delight, or other strong emotion:",
+              "examples": [
+                "Man, what a car!"
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to supply with people, as for service:",
+              "examples": [
+                "to man the ship."
+              ]
+            },
+            {
+              "def": "to take one's place at, as to defend or operate:",
+              "examples": [
+                "There were enough volunteers to man the phones."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "interj.",
+          "defs": [
+            {
+              "def": " speaking freely or honestly: ",
+              "examples": [
+                "[adverb]They spoke man to man.",
+                "[adjective]They had a man-to-man talk."
+              ]
+            },
+            {
+              "def": " free from restrictions;",
+              "examples": [
+                "Now that he has a business he feels he is his own man."
+              ]
+            },
+            {
+              "def": " including everyone:",
+              "examples": [
+                "The battalion was annihilated to a man."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": " comes from Latin, where it has the meaning \"hand.'' This meaning is found in such words as: ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "Idioms",
+          "defs": [
+            {
+              "def": " comes from Latin, where it has the meaning \"stay;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "an adult male person, as distinguished from a boy or a woman.",
+              "examples": []
+            },
+            {
+              "def": "a member of the species ",
+              "examples": [
+                "prehistoric man."
+              ]
+            },
+            {
+              "def": "the human individual as representing the species, without reference to sex;",
+              "examples": [
+                "Man hopes for peace, but prepares for war."
+              ]
+            },
+            {
+              "def": "a human being;",
+              "examples": [
+                "to give a man a chance; When the audience smelled the smoke, it was every man for himself."
+              ]
+            },
+            {
+              "def": "a husband.",
+              "examples": []
+            },
+            {
+              "def": "a male lover or sweetheart.",
+              "examples": []
+            },
+            {
+              "def": "a male follower or subordinate:",
+              "examples": [
+                "the king's men. He's the boss's number one man."
+              ]
+            },
+            {
+              "def": "a male employee or representative, esp. of a company or agency:",
+              "examples": [
+                "a Secret Service man; a man from the phone company."
+              ]
+            },
+            {
+              "def": "a male having qualities considered typical of men or appropriately masculine:",
+              "examples": [
+                "Be a man. The army will make a man of you."
+              ]
+            },
+            {
+              "def": "a male servant.",
+              "examples": []
+            },
+            {
+              "def": "a valet.",
+              "examples": []
+            },
+            {
+              "def": "See  ",
+              "examples": []
+            },
+            {
+              "def": "an enthusiast or devotee:",
+              "examples": [
+                "I like jazz, but I'm essentially a classics man."
+              ]
+            },
+            {
+              "def": "male friend;",
+              "examples": [
+                "You're my main man."
+              ]
+            },
+            {
+              "def": "a term of familiar address to a man;",
+              "examples": [
+                "Now, now, my good man, please calm down."
+              ]
+            },
+            {
+              "def": "a term of familiar address to a man or a woman:",
+              "examples": [
+                "Hey, man, take it easy."
+              ]
+            },
+            {
+              "def": "one of the pieces used in playing certain games, as chess or checkers.",
+              "examples": []
+            },
+            {
+              "def": "a liegeman;",
+              "examples": []
+            },
+            {
+              "def": "manly character or courage.",
+              "examples": []
+            },
+            {
+              "def": " in complete agreement or accord;",
+              "examples": [
+                "They arose as one man to protest the verdict."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "Now that he has a business he is his own man.",
+                "After a refreshing nap he was again his own man."
+              ]
+            },
+            {
+              "def": " ever since childhood:",
+              "examples": [
+                "He's been working that farm, man and boy, for more than 50 years."
+              ]
+            },
+            {
+              "def": " a man who exemplifies masculine qualities.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": []
+            },
+            {
+              "def": " with no exception;",
+              "examples": [
+                "To a man, the members of the team did their best."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to furnish with men, as for service or defense.",
+              "examples": []
+            },
+            {
+              "def": "to take one's place for service, as at a gun or post:",
+              "examples": [
+                "to man the ramparts."
+              ]
+            },
+            {
+              "def": "to strengthen, fortify, or brace;",
+              "examples": [
+                "to man oneself for the dangers ahead."
+              ]
+            },
+            {
+              "def": "to accustom (a hawk) to the presence of men.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "interj.",
+          "defs": [
+            {
+              "def": "an expression of surprise, enthusiasm, dismay, or other strong feeling:",
+              "examples": [
+                "Man, what a ball game!"
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "Manila.",
+              "examples": []
+            },
+            {
+              "def": "Manitoba.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "less.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "categories",
+      "phonemics": "",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "any group or division in a system of classification:",
+              "examples": [
+                "several categories of students: part-time, full-time, degree, and nondegree."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "any general or comprehensive division;",
+              "examples": []
+            },
+            {
+              "def": "a classificatory division in any field of knowledge, as a phylum or any of its subdivisions in biology.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": " Also called  ",
+              "examples": []
+            },
+            {
+              "def": "a type of mathematical object, as a set, group, or metric space, together with a set of mappings from such an object to other objects of the same type.",
+              "examples": []
+            },
+            {
+              "def": "See  ",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "accessories",
+      "phonemics": "",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "an extra part that improves or completes the basic part:",
+              "examples": [
+                "The car's accessories included a CD player."
+              ]
+            },
+            {
+              "def": " a person who, although absent, assists in committing a felony.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a subordinate or supplementary part, object, or the like, used mainly for convenience, attractiveness, safety, etc., as a spotlight on an automobile or a lens cover on a camera.",
+              "examples": []
+            },
+            {
+              "def": "an article or set of articles of dress, as gloves, earrings, or a scarf, that adds completeness, convenience, attractiveness, etc., to one's basic outfit.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "See  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "contributing to a general effect;",
+              "examples": []
+            },
+            {
+              "def": "giving aid as an accessory.",
+              "examples": []
+            },
+            {
+              "def": "noting any mineral whose presence in a rock has no bearing on the classification of the rock, as zircon in granite.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "medical",
+      "phonemics": "/ˈmɛdɪkəl/",
+      "definitions": [
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "of or relating to medicine.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "of or pertaining to the science or practice of medicine:",
+              "examples": [
+                "medical history; medical treatment."
+              ]
+            },
+            {
+              "def": "curative;",
+              "examples": [
+                "medical properties."
+              ]
+            },
+            {
+              "def": "pertaining to or requiring treatment by other than surgical means.",
+              "examples": []
+            },
+            {
+              "def": "pertaining to or giving evidence of the state of one's health:",
+              "examples": [
+                "a medical discharge from the army; a medical examination."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "something done or received in regard to the state of one's health, as a medical examination.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en054571.mp3"
+    },
+    {
+      "word": "test",
+      "phonemics": "/ˈtɛst/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a set of problems, questions, etc., for evaluating a person's abilities, skills, or performance:",
+              "examples": [
+                "a driver's test."
+              ]
+            },
+            {
+              "def": "the means by which the quality of anything is determined:",
+              "examples": [
+                "a test of a new product."
+              ]
+            },
+            {
+              "def": "a trial of the quality of something:",
+              "examples": [
+                "to put the new car to the test."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to (cause someone to) undergo a test of any kind: ",
+              "examples": [
+                "[~ + object]The school has to test you on your writing ability.",
+                "[no object]The hospital wants to test for diabetes."
+              ]
+            },
+            {
+              "def": " to perform on a test:",
+              "examples": [
+                "[no object]People test better in a relaxed environment."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "root.",
+          "defs": [
+            {
+              "def": " comes from Latin, where it has the meaning \"witness.'' This meaning is found in such words as: ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "the means by which the presence, quality, or genuineness of anything is determined;",
+              "examples": []
+            },
+            {
+              "def": "the trial of the quality of something:",
+              "examples": [
+                "to put to the test."
+              ]
+            },
+            {
+              "def": "a particular process or method for trying or assessing.",
+              "examples": []
+            },
+            {
+              "def": "a set of questions, problems, or the like, used as a means of evaluating the abilities, aptitudes, skills, or performance of an individual or group;",
+              "examples": []
+            },
+            {
+              "def": "a set of standardized questions, problems, or tasks designed to elicit responses for use in measuring the traits, capacities, or achievements of an individual.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "an oath or other confirmation of one's loyalty, religious beliefs, etc.",
+              "examples": []
+            },
+            {
+              "def": "a cupel for refining or assaying metals.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to subject to a test of any kind;",
+              "examples": []
+            },
+            {
+              "def": "to subject to a chemical test.",
+              "examples": []
+            },
+            {
+              "def": "to assay or refine in a cupel.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "to undergo a test or trial;",
+              "examples": []
+            },
+            {
+              "def": "to perform on a test:",
+              "examples": [
+                "People test better in a relaxed environment."
+              ]
+            },
+            {
+              "def": "to conduct a test:",
+              "examples": [
+                "to test for diabetes."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "the hard, protective shell or covering of certain invertebrates, as echinoderms or tunicates.",
+              "examples": []
+            },
+            {
+              "def": "testa.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "testator.",
+              "examples": []
+            },
+            {
+              "def": "testimony.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en089071.mp3"
+    },
+    {
+      "word": "friend",
+      "phonemics": "'friend', 'Friend': /ˈfrɛnd/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a person who is attached to another by feelings of affection or personal regard:",
+              "examples": [
+                "She was my best friend."
+              ]
+            },
+            {
+              "def": "a person who gives assistance;",
+              "examples": [
+                "supported by friends of the Boston Symphony."
+              ]
+            },
+            {
+              "def": "a person who is not hostile:",
+              "examples": [
+                "Who goes there? Friend or foe?"
+              ]
+            },
+            {
+              "def": " a member of the Society of Friends;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "Idioms",
+          "defs": [
+            {
+              "def": " [ ",
+              "examples": [
+                "made friends with the new neighbors."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a person attached to another by feelings of affection or personal regard.",
+              "examples": []
+            },
+            {
+              "def": "a person who gives assistance;",
+              "examples": [
+                "friends of the Boston Symphony."
+              ]
+            },
+            {
+              "def": "a person who is on good terms with another;",
+              "examples": [
+                "Who goes there? Friend or foe?"
+              ]
+            },
+            {
+              "def": "a member of the same nation, party, etc.",
+              "examples": []
+            },
+            {
+              "def": "(",
+              "examples": []
+            },
+            {
+              "def": " to enter into friendly relations with;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to befriend.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en036825.mp3"
+    },
+    {
+      "word": "come",
+      "phonemics": "/ˈkʌm/",
+      "definitions": [
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to approach or move toward someone or something: ",
+              "examples": [
+                "[no object]Come a little closer.",
+                "[~ + to + verb]Can't you come to see me more often?",
+                "[~ + verb-ing]The tide came rushing in."
+              ]
+            },
+            {
+              "def": " to arrive by movement or through time:  ",
+              "examples": []
+            },
+            {
+              "def": " to move into view;",
+              "examples": [
+                "[no object]The light comes and goes."
+              ]
+            },
+            {
+              "def": " to extend;",
+              "examples": [
+                "The dress comes to her knees."
+              ]
+            },
+            {
+              "def": "to take place;",
+              "examples": [
+                "[no object]Her trumpet solo comes in the third act.",
+                "[~ + to + verb]How could such a thing come to exist?"
+              ]
+            },
+            {
+              "def": " to be available, be produced, be found, etc.: ",
+              "examples": [
+                "Toothpaste comes in a tube."
+              ]
+            },
+            {
+              "def": " to arrive or appear as a result: ",
+              "examples": [
+                "This comes of carelessness."
+              ]
+            },
+            {
+              "def": "to enter, get into, or be brought into a specified state or condition: ",
+              "examples": [
+                "[~ + into + object]The word multicultural has come into popular use.",
+                "[~ + to + object]The war came to an abrupt halt."
+              ]
+            },
+            {
+              "def": " to do or manage;",
+              "examples": []
+            },
+            {
+              "def": " to become or seem to become a specified way:",
+              "examples": [
+                "[no object]We came unglued (=  overly nervous) at the thought of another exam that day."
+              ]
+            },
+            {
+              "def": "(used as a command to call attention, or to express impatience, etc.):  ",
+              "examples": []
+            },
+            {
+              "def": "to have an orgasm.",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "[no object]How did such a mess come about, anyway?",
+                "[it + ~ + (that) clause]It came about that he had to cancel his vacation."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Look at these photos that I came across.",
+                "He finally came across and did it."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "I didn't hear you; come again."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "We're going to the mall; you can come along if you like.",
+                "An opportunity came along to invest in real estate."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The unconscious patient finally came around.",
+                "She finally came around to our point of view.",
+                "She's mad and upset now, but I'm sure she'll come around.",
+                "Why don't you come around and see me some time?"
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The doll just came apart when touched."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "How did he come at such a sum?",
+                "came at me with a knife."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "I remember now; it's all coming back to me.",
+                "Do you have any idea when he'll come back?",
+                "Short skirts are coming back again."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                " Nothing can come between us."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "We never came by such good fortune again."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The entire building came down on them.",
+                "The senator has really come down in the world.",
+                "This ancient song comes down to us from Norway.",
+                "[~ + down + to + object]It all comes down to a sense of pride.",
+                "[~ + down + to + verb-ing]It all comes down to living or dying."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Why did you come down on her so hard?"
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "She came down with the flu."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Pearls come from oysters.",
+                "I can't understand where he's coming from."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The door's open; come in!",
+                "The train comes in at 6:00 p.m.",
+                "Long skirts have come in again."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "He's going to come in for a lot of criticism."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "I came into a bit of money winning a wager.",
+                "She came into a lot of money after her cousin died.",
+                "The president's car suddenly came into view and everyone cheered."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The invasion came off just before dawn.",
+                "We want this project to come off without any delay."
+              ]
+            },
+            {
+              "def": " (often used as a command) to stop:",
+              "examples": [
+                "Come off it; we know where you were."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "I just happened to come on (upon) a book in the library that has the references you need.",
+                "I can feel a cold coming on.",
+                "Just when the challenger was coming on in the primaries, another scandal broke.",
+                "He came on to thunderous applause.",
+                "Come on, before it rains!",
+                "Come on, have dinner with us.",
+                "He was coming on (to her) and she didn't know how to respond."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Suddenly the sun came out.",
+                "The story came out in all the papers.",
+                "When will this new wonder drug come out?"
+              ]
+            },
+            {
+              "def": " (or  ",
+              "examples": [
+                "The president is expected to come out for the new tax bill."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "He came out with a ridiculous remark."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "She came through the war safely.",
+                "My friend will come through; he has never disappointed me before."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Stand back, he's coming to.",
+                "The expenses came to $5,000 after deductions.",
+                "When it comes to quality this is first-rate.",
+                "Suddenly it came to me; I knew her from Paris."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "came under a lot of criticism for hiring her.",
+                "Copying your classmate's paper comes under the heading of cheating."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "She came up to the star and asked for his autograph.",
+                "Your work just doesn't come up to our high standards."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "What new plan did you come up with?"
+              ]
+            },
+            {
+              "def": " in the future:",
+              "examples": [
+                "In years to come, we hope to solve these problems."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to approach or move toward a particular person or place:",
+              "examples": [
+                "Come here. Don't come any closer!"
+              ]
+            },
+            {
+              "def": "to arrive by movement or in the course of progress:",
+              "examples": [
+                "The train from Boston is coming."
+              ]
+            },
+            {
+              "def": "to approach or arrive in time, in succession, etc.:",
+              "examples": [
+                "Christmas comes once a year. I'll come to your question next."
+              ]
+            },
+            {
+              "def": "to move into view;",
+              "examples": []
+            },
+            {
+              "def": "to extend;",
+              "examples": [
+                "The dress comes to her knees."
+              ]
+            },
+            {
+              "def": "to take place;",
+              "examples": [
+                "Success comes to those who strive."
+              ]
+            },
+            {
+              "def": "to occur at a certain point, position, etc.:",
+              "examples": [
+                "Tuesday comes after Monday. Her aria comes in the third act."
+              ]
+            },
+            {
+              "def": "to be available, produced, offered, etc.:",
+              "examples": [
+                "Toothpaste comes in a tube."
+              ]
+            },
+            {
+              "def": "to occur to the mind:",
+              "examples": [
+                "The idea just came to me."
+              ]
+            },
+            {
+              "def": "to befall:",
+              "examples": [
+                "They promised no harm would come to us."
+              ]
+            },
+            {
+              "def": "to issue;",
+              "examples": [
+                "Peaches come from trees. Good results do not come from careless work."
+              ]
+            },
+            {
+              "def": "to arrive or appear as a result:",
+              "examples": [
+                "This comes of carelessness."
+              ]
+            },
+            {
+              "def": "to enter or be brought into a specified state or condition:",
+              "examples": [
+                "to come into popular use."
+              ]
+            },
+            {
+              "def": "to do or manage;",
+              "examples": [
+                "She's coming along well with her work."
+              ]
+            },
+            {
+              "def": "to enter into being or existence;",
+              "examples": [
+                "The baby came at dawn."
+              ]
+            },
+            {
+              "def": "to have been a resident or to be a native of (usually fol. by ",
+              "examples": [
+                "She comes from Florida."
+              ]
+            },
+            {
+              "def": "to become:",
+              "examples": [
+                "His shoes came untied."
+              ]
+            },
+            {
+              "def": "to seem to become:",
+              "examples": [
+                "His fears made the menacing statues come alive. The work will come easy with a little practice."
+              ]
+            },
+            {
+              "def": "(used in the imperative to call attention or to express impatience, anger, remonstrance, etc.):",
+              "examples": [
+                "Come, that will do!"
+              ]
+            },
+            {
+              "def": "to germinate, as grain.",
+              "examples": []
+            },
+            {
+              "def": "to have an orgasm.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to do;",
+              "examples": []
+            },
+            {
+              "def": "to play the part of:",
+              "examples": [
+                "to come the grande dame."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "I came across this picture when I was cleaning out the attic. We suddenly came upon a deer while walking in the woods.",
+                "to come across with the rent.",
+                "The moral of this story doesn't come across.",
+                "She comes across as a very cold person."
+              ]
+            },
+            {
+              "def": " (used as a request to repeat a statement).",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "He didn't come along on the last trip.",
+                "The new project was coming along quite smoothly.",
+                "Even if another job comes along this summer, I won't take it."
+              ]
+            },
+            {
+              "def": " to occur briefly or suddenly but never for long;",
+              "examples": []
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "Come around more often."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The watchdog came at the intruder."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "It all comes back to me now.",
+                "to come back with a witty remark."
+              ]
+            },
+            {
+              "def": " to cause to be estranged or antagonized:",
+              "examples": [
+                "Love of money came between the brothers."
+              ]
+            },
+            {
+              "def": " to obtain;",
+              "examples": [
+                "How did he ever come by so much money?"
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The general's orders will come down tomorrow."
+              ]
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "She came down on increased spending and promised to cut the budget.",
+                "He came down on me for getting to work late."
+              ]
+            },
+            {
+              "def": " to support or favor:",
+              "examples": [
+                "I want to come down on the side of truth and justice."
+              ]
+            },
+            {
+              "def": " to become afflicted with (an illness):",
+              "examples": [
+                "Many people came down with the flu this year."
+              ]
+            },
+            {
+              "def": " to offer one's services;",
+              "examples": [
+                "When the president called for volunteers, several members of our group came forward."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The oil well finally came in.",
+                "His horse came in and paid 5 to 1.",
+                "Our bobsled team came in fifth."
+              ]
+            },
+            {
+              "def": " to receive;",
+              "examples": [
+                "This plan will no doubt come in for a great deal of criticism."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "He came into a large fortune at the age of 21."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "to come off with honors.",
+                "Her speech came off very well.",
+                "The end of the novel just doesn't come off."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Come off it--we know you're as poor as the rest of us."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The last showing will be coming on in a few minutes.",
+                "Come on, before it rains!",
+                "Come on, go with us to the movies.",
+                "She comes on a bit too strong for my taste.",
+                "a Lothario who was always coming on with the women at the office."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The fight came out badly, as both combatants were injured."
+              ]
+            },
+            {
+              "def": " to endorse or support publicly:",
+              "examples": [
+                "The newspaper came out for the reelection of the mayor."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The publisher is coming out with a revised edition of the textbook."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "What's come over him?",
+                "He was initially against the plan, but he's come over now.",
+                "Our neighbors came over last night and we had a good chat."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "We knew you'd come through for us."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": []
+            },
+            {
+              "def": " to happen;",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "This play comes under the heading of social criticism.",
+                "This matter comes under the State Department."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The subject kept coming up in conversation.",
+                "The farm bill comes up for consideration next Monday."
+              ]
+            },
+            {
+              "def": " See  ",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "A panhandler came up to us in the street.",
+                "This piece of work does not come up to your usual standard."
+              ]
+            },
+            {
+              "def": " to produce;",
+              "examples": [
+                "Can you come up with the right answer?"
+              ]
+            },
+            {
+              "def": " no matter what may happen;",
+              "examples": [
+                "Come what may, he will not change his mind."
+              ]
+            },
+            {
+              "def": " where the source of one's beliefs, attitudes, or feelings lies:",
+              "examples": [
+                "It's hard to understand where your friend is coming from when he says such crazy things."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "(",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en016826.mp3"
+    },
+    {
+      "word": "dec",
+      "phonemics": "",
+      "definitions": [
+        {
+          "class": "root.",
+          "defs": [
+            {
+              "def": "December.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "server",
+      "phonemics": "/ˈs3ːrvər/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a person who serves.",
+              "examples": []
+            },
+            {
+              "def": "something that serves or is used in serving, as a salver.",
+              "examples": []
+            },
+            {
+              "def": "a broad fork, spoon, or spatula for dishing out and serving individual portions of food, as vegetables, cake, or pie.",
+              "examples": []
+            },
+            {
+              "def": "an attendant on the priest at Mass, who arranges the altar, makes the responses, etc.",
+              "examples": []
+            },
+            {
+              "def": "(in tennis, badminton, handball, etc.) the player who puts the ball or shuttlecock in play.",
+              "examples": []
+            },
+            {
+              "def": "a computer that makes services, as access to data files, programs, and peripheral devices, available to workstations on a network. Cf.  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a computer that makes services, as access to data files, programs, and peripheral devices, available to workstations on a network. Cf.  ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to act as a servant to (another);",
+              "examples": [
+                "[no object]The maid served in the kitchen.",
+                "[~ + object]served his young master well."
+              ]
+            },
+            {
+              "def": "to carry and distribute (food or drink) to (a person at a table): ",
+              "examples": [
+                "[~ + object]He served the food.",
+                "[~ + object + object]The headwaiter served us our food.",
+                "[no object]A good waiter serves without drawing attention to himself.",
+                "[no object]She served at the church reception."
+              ]
+            },
+            {
+              "def": " to give assistance to;",
+              "examples": [
+                "[~ + object]May I serve you?"
+              ]
+            },
+            {
+              "def": "to be suitable for (a purpose);",
+              "examples": [
+                "[no object]That cup will serve as a sugar bowl.",
+                "[~ + object]This will serve our needs.",
+                "[~ + to + verb (+ object)]This note will serve to explain my actions."
+              ]
+            },
+            {
+              "def": "to go through a term of service for (something or someone), as a soldier, senator, etc.: ",
+              "examples": [
+                "[no object]served in the armed forces.",
+                "[~ + object]served her country in the Gulf War."
+              ]
+            },
+            {
+              "def": " to go through (a term in prison):",
+              "examples": [
+                "[~ + object]had to serve six years in prison."
+              ]
+            },
+            {
+              "def": "(in tennis, handball, etc.) to put (the ball or shuttlecock) in play with a stroke or hit: ",
+              "examples": [
+                "[no object]served first to start the match.",
+                "[~ + object]served the first ball out of bounds."
+              ]
+            },
+            {
+              "def": "to attend the priest at (mass): ",
+              "examples": [
+                "[no object]The altar boy served at the 12:30 mass.",
+                "[~ + object]The altar boy served the 12:30 mass."
+              ]
+            },
+            {
+              "def": "to give active service or obedience to (God, a sovereign, etc.): ",
+              "examples": [
+                "[no object]He served under the president well.",
+                "[~ + object]\"You have served me well,'' the king whispered to his chamberlain."
+              ]
+            },
+            {
+              "def": " to contribute to;",
+              "examples": [
+                "[~ + object]to serve a cause."
+              ]
+            },
+            {
+              "def": "to give in a legal manner (a summons, process, etc.) to (someone): ",
+              "examples": [
+                "[~ + object]served his client with a warrant; served the warrant for the arrest of my client.",
+                "[~ + object + object]served my client the warrant."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "the act or right of serving, as in tennis:",
+              "examples": [
+                "Whose serve is it?"
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": " to be someone's just punishment, as for improper behavior:",
+              "examples": [
+                "It served her right to get caught; she was cheating all the time."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to act as a servant.",
+              "examples": []
+            },
+            {
+              "def": "to wait on table, as a waiter.",
+              "examples": []
+            },
+            {
+              "def": "to offer or have a meal or refreshments available, as for patrons or guests:",
+              "examples": [
+                "Come early, we're serving at six."
+              ]
+            },
+            {
+              "def": "to offer or distribute a portion or portions of food or a beverage, as a host or hostess:",
+              "examples": [
+                "It was her turn to serve at the faculty tea."
+              ]
+            },
+            {
+              "def": "to render assistance;",
+              "examples": []
+            },
+            {
+              "def": "to go through a term of service;",
+              "examples": []
+            },
+            {
+              "def": "to have definite use:",
+              "examples": [
+                "This cup will serve as a sugar bowl."
+              ]
+            },
+            {
+              "def": "to answer the purpose:",
+              "examples": [
+                "That will serve to explain my actions."
+              ]
+            },
+            {
+              "def": "(in tennis, badminton, handball, etc.) to put the ball or shuttlecock in play with a stroke, swing, or hit.",
+              "examples": []
+            },
+            {
+              "def": "to be favorable, suitable, or convenient, as weather or time.",
+              "examples": []
+            },
+            {
+              "def": "to act as a server.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to be in the service of;",
+              "examples": []
+            },
+            {
+              "def": "to be useful or of service to;",
+              "examples": []
+            },
+            {
+              "def": "to go through (a term of service, imprisonment, etc.).",
+              "examples": []
+            },
+            {
+              "def": "to render active service to (a sovereign, commander, etc.).",
+              "examples": []
+            },
+            {
+              "def": "to render obedience or homage to (God, a sovereign, etc.).",
+              "examples": []
+            },
+            {
+              "def": "to perform the duties of (a position, an office, etc.):",
+              "examples": [
+                "to serve his mayoralty."
+              ]
+            },
+            {
+              "def": "to answer the requirements of;",
+              "examples": [
+                "This will serve our needs for the moment."
+              ]
+            },
+            {
+              "def": "to contribute to;",
+              "examples": [
+                "to serve a cause."
+              ]
+            },
+            {
+              "def": "to wait upon at table;",
+              "examples": []
+            },
+            {
+              "def": "to carry and distribute (portions of food or drink) to a patron or a specific table, as a waiter or waitress.",
+              "examples": []
+            },
+            {
+              "def": "to act as a host or hostess in offering (a person) a portion of food or drink:",
+              "examples": [
+                "May I serve you with some tea and cake?"
+              ]
+            },
+            {
+              "def": "to act as a host or hostess in offering or distributing (a portion or portions of food or drink) to another:",
+              "examples": [
+                "They served tea and cake to their guests."
+              ]
+            },
+            {
+              "def": "to provide with a regular or continuous supply of something.",
+              "examples": []
+            },
+            {
+              "def": "(in tennis, badminton, handball, etc.) to put (the ball or shuttlecock) in play.",
+              "examples": []
+            },
+            {
+              "def": "to treat in a specified manner:",
+              "examples": [
+                "That served him ill."
+              ]
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "to gratify (desire, wants, needs, etc.).",
+              "examples": []
+            },
+            {
+              "def": "(of a male animal) to mate with;",
+              "examples": []
+            },
+            {
+              "def": "to operate or keep in action (a gun, artillery, etc.).",
+              "examples": []
+            },
+            {
+              "def": "to wrap (a rope) tightly with small stuff, keeping the turns as close together as possible.",
+              "examples": []
+            },
+            {
+              "def": " to treat one as one deserves, esp. to punish justly:",
+              "examples": [
+                "It will serve you right if she never speaks to you again."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "the act, manner, or right of serving, as in tennis.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en077076.mp3"
+    },
+    {
+      "word": "study",
+      "phonemics": "/ˈstʌdi/",
+      "definitions": [
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": " the use of the mind to gain knowledge, as by reading, investigation, etc.:",
+              "examples": [
+                "[uncountable]the study of law."
+              ]
+            },
+            {
+              "def": "Often,  ",
+              "examples": [
+                "[plural]to pursue one's studies.",
+                "[uncountable]After years of study he got his diploma."
+              ]
+            },
+            {
+              "def": " a complete investigation and analysis of a subject, phenomenon, etc.:",
+              "examples": [
+                "[countable]Studies show that smoking causes cancer."
+              ]
+            },
+            {
+              "def": " a written report of such an investigation:",
+              "examples": [
+                "[countable]I read a study claiming that smoking causes cancer."
+              ]
+            },
+            {
+              "def": " deep thought:",
+              "examples": [
+                "[uncountable]deep in study."
+              ]
+            },
+            {
+              "def": " a room set apart for private study or the like.",
+              "examples": []
+            },
+            {
+              "def": " a person in relation to the speed at which he or she can memorize something, esp. an actor in regard to learning lines:",
+              "examples": [
+                "[countable]He is a quick study and can fill in for the lead actor at a moment's notice."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to apply oneself to gaining knowledge, as by learning or investigation: ",
+              "examples": [
+                "[no object]His youngest son spends much time studying.",
+                "[~ + object]He's been studying chemistry all night."
+              ]
+            },
+            {
+              "def": "to take a course of study, as at a college: ",
+              "examples": [
+                "[no object]He's studying at Harvard.",
+                "[~ + object]She's studying architecture at Yale."
+              ]
+            },
+            {
+              "def": " to examine or investigate carefully and in detail:",
+              "examples": [
+                "[~ + object]The police officer studied the accident scene."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "application of the mind to the acquisition of knowledge, as by reading, investigation, or reflection:",
+              "examples": [
+                "long hours of study."
+              ]
+            },
+            {
+              "def": "the cultivation of a particular branch of learning, science, or art:",
+              "examples": [
+                "the study of law."
+              ]
+            },
+            {
+              "def": "Often,  ",
+              "examples": [
+                "to pursue one's studies."
+              ]
+            },
+            {
+              "def": "something studied or to be studied:",
+              "examples": [
+                "Balzac's study was human nature."
+              ]
+            },
+            {
+              "def": "research or a detailed examination and analysis of a subject, phenomenon, etc.:",
+              "examples": [
+                "She made a study of the transistor market for her firm."
+              ]
+            },
+            {
+              "def": "a written account of such research, examination, or analysis:",
+              "examples": [
+                "He published a study of Milton's poetry."
+              ]
+            },
+            {
+              "def": "a well-defined, organized branch of learning or knowledge.",
+              "examples": []
+            },
+            {
+              "def": "zealous endeavor or assiduous effort.",
+              "examples": []
+            },
+            {
+              "def": "the object of such endeavor or effort.",
+              "examples": []
+            },
+            {
+              "def": "deep thought, reverie, or a state of abstraction:",
+              "examples": [
+                "He was lost in study and did not hear us come in."
+              ]
+            },
+            {
+              "def": "a room, in a house or other building, set apart for private study, reading, writing, or the like.",
+              "examples": []
+            },
+            {
+              "def": "Also called  ",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "something produced as an educational exercise, as a memorandum or record of observations or effects, or as a guide for a finished production:",
+              "examples": [
+                "She made a quick pencil sketch of his hands as a study for the full portrait in oils."
+              ]
+            },
+            {
+              "def": "a person, as an actor, considered in terms of his or her quickness or slowness in memorizing lines:",
+              "examples": [
+                "a quick study."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.,",
+          "defs": [
+            {
+              "def": "to apply oneself to the acquisition of knowledge, as by reading, investigation, or practice.",
+              "examples": []
+            },
+            {
+              "def": "to apply oneself;",
+              "examples": []
+            },
+            {
+              "def": "to think deeply, reflect, or consider.",
+              "examples": []
+            },
+            {
+              "def": "to take a course of study, as at a college.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to apply oneself to acquiring a knowledge of (a subject).",
+              "examples": []
+            },
+            {
+              "def": "to examine or investigate carefully and in detail:",
+              "examples": [
+                "to study the political situation."
+              ]
+            },
+            {
+              "def": "to observe attentively;",
+              "examples": [
+                "to study a person's face."
+              ]
+            },
+            {
+              "def": "to read carefully or intently:",
+              "examples": [
+                "to study a book."
+              ]
+            },
+            {
+              "def": "to endeavor to learn or memorize, as a part in a play.",
+              "examples": []
+            },
+            {
+              "def": "to consider, as something to be achieved or devised.",
+              "examples": []
+            },
+            {
+              "def": "to think out, as the result of careful consideration or devising.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en085420.mp3"
+    },
+    {
+      "word": "cart",
+      "phonemics": "/ˈkɑːrt/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a two-wheeled vehicle pulled by horses, oxen, etc., and used to carry goods, for farming, etc.",
+              "examples": []
+            },
+            {
+              "def": "any small vehicle pushed or pulled by hand:",
+              "examples": [
+                "a shopping cart."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to haul, as in a cart or truck:",
+              "examples": [
+                "They carted the old furniture to the dump."
+              ]
+            },
+            {
+              "def": " or ",
+              "examples": [
+                "[~ + object + off/away]The police carted them off to jail.",
+                "[~ + off/away + object]carted away all seven of them to jail."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "Idioms",
+          "defs": [
+            {
+              "def": " to do or place things in wrong order;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a heavy two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like, used for the conveyance of heavy goods.",
+              "examples": []
+            },
+            {
+              "def": "a light two-wheeled vehicle with springs, drawn by a horse or pony.",
+              "examples": []
+            },
+            {
+              "def": "any small vehicle pushed or pulled by hand.",
+              "examples": []
+            },
+            {
+              "def": "a chariot.",
+              "examples": []
+            },
+            {
+              "def": " See  ",
+              "examples": []
+            },
+            {
+              "def": " to do or place things in improper order;",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to haul or convey in or as if in a cart or truck:",
+              "examples": [
+                "to cart garbage to the dump."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "to drive a cart.",
+              "examples": []
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "The police came and carted him off to jail."
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en013149.mp3"
+    },
+    {
+      "word": "staff",
+      "phonemics": "/ˈstɑːf/",
+      "definitions": [
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a group of people, esp. workers, who carry out the work of an establishment, such as a group of assistants to a manager, superintendent, etc.: ",
+              "examples": [
+                "[countable]He has a fine staff working under him.",
+                "[uncountable]I am complaining about one of your staff."
+              ]
+            },
+            {
+              "def": " a stick, pole, or rod for aid in walking or climbing, for use as a weapon, etc.",
+              "examples": []
+            },
+            {
+              "def": " a pole on which a flag is hung or displayed.",
+              "examples": []
+            },
+            {
+              "def": " something that supports or sustains:",
+              "examples": [
+                "[countable;  usually singular]Bread is the staff of life."
+              ]
+            },
+            {
+              "def": " a set of usually five lines, with the corresponding four spaces between them, on which music is written.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj., v..",
+          "defs": [
+            {
+              "def": "of or relating or belonging to an organizational staff:",
+              "examples": [
+                "staff officers."
+              ]
+            },
+            {
+              "def": "working on the staff of a corporation, institution, etc.:",
+              "examples": [
+                "a staff writer."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "to provide with a staff of assistants or workers:",
+              "examples": [
+                "The company is staffed with the finest engineers in this country."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "adj., v.",
+          "defs": [
+            {
+              "def": "a group of persons, as employees, charged with carrying out the work of an establishment or executing some undertaking.",
+              "examples": []
+            },
+            {
+              "def": "a group of assistants to a manager, superintendent, or executive.",
+              "examples": []
+            },
+            {
+              "def": "a member of a staff.",
+              "examples": []
+            },
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "those members of an organization serving only in an auxiliary or advisory capacity on a given project. Cf.  ",
+              "examples": []
+            },
+            {
+              "def": "a stick, pole, or rod for aid in walking or climbing, for use as a weapon, etc.",
+              "examples": []
+            },
+            {
+              "def": "a rod or wand serving as a symbol of office or authority, as a crozier, baton, truncheon, or mace.",
+              "examples": []
+            },
+            {
+              "def": "a pole on which a flag is hung or displayed.",
+              "examples": []
+            },
+            {
+              "def": "something that supports or sustains.",
+              "examples": []
+            },
+            {
+              "def": "Also,  ",
+              "examples": []
+            },
+            {
+              "def": "the shaft of a spear, lance, etc.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "of or pertaining to a military or organizational staff:",
+              "examples": [
+                "a staff officer; staff meetings."
+              ]
+            },
+            {
+              "def": "(of a professional person) employed on the staff of a corporation, publication, institution, or the like rather than being self-employed or practicing privately:",
+              "examples": [
+                "a staff writer; staff physicians at the hospital."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adj.",
+          "defs": [
+            {
+              "def": "to provide with a staff of assistants or workers:",
+              "examples": [
+                "She staffed her office with excellent secretaries."
+              ]
+            },
+            {
+              "def": "to serve on the staff of.",
+              "examples": []
+            },
+            {
+              "def": "to send to a staff for study or further work (often fol. by ",
+              "examples": [
+                "The White House will staff out the recommendations before making a decision."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to hire employees, as for a new office or project (sometimes fol. by ",
+              "examples": [
+                "Next month we'll begin staffing up for the reelection campaign."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "a composition of plaster and fibrous material used for a temporary finish and in ornamental work, as on exposition buildings.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en083249.mp3"
+    },
+    {
+      "word": "san",
+      "phonemics": "/sɑːn/, /sæn/",
+      "definitions": [
+        {
+          "class": "root.",
+          "defs": [
+            {
+              "def": " comes from Latin, where it has the meaning \"health.'' This meaning is found in such words as: ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a river in central Europe, flowing from the Carpathian Mountains in W Ukraine through SE Poland into the Vistula: battles 1914–15. ab. 280 mi. (450 km) long.",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n., pl.",
+          "defs": [
+            {
+              "def": "a member of a nomadic, racially distinct, short-statured people of southern Africa.",
+              "examples": []
+            },
+            {
+              "def": "any of more than a dozen related Khoisan languages spoken by the San. Also called  ",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "feedback",
+      "phonemics": "/ˈfiːdbæk/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a reaction or response to a process or activity:",
+              "examples": [
+                "feedback from a speech."
+              ]
+            },
+            {
+              "def": "information derived from such a reaction or response:",
+              "examples": [
+                "to use the feedback from an audience survey."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "\n",
+              "examples": []
+            },
+            {
+              "def": "the furnishing of data concerning the operation or output of a machine to an automatic control device or to the machine itself, so that subsequent or ongoing operations of the machine can be altered or corrected.",
+              "examples": []
+            },
+            {
+              "def": "a reaction or response to a particular process or activity:",
+              "examples": [
+                "He got very little feedback from his speech."
+              ]
+            },
+            {
+              "def": "evaluative information derived from such a reaction or response:",
+              "examples": [
+                "to study the feedback from an audience survey."
+              ]
+            },
+            {
+              "def": "knowledge of the results of any behavior, considered as influencing or modifying further performance. Cf. ",
+              "examples": []
+            },
+            {
+              "def": "a self-regulatory biological system, as in the synthesis of some hormones, in which the output or response affects the input, either positively or negatively.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en033342.mp3"
+    },
+    {
+      "word": "again",
+      "phonemics": "/əˈgɛn/",
+      "definitions": [
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "once more;",
+              "examples": [
+                "Spell your name again, please."
+              ]
+            },
+            {
+              "def": "on the other hand: ",
+              "examples": []
+            },
+            {
+              "def": "back to a condition, state, or place that existed before:",
+              "examples": [
+                "She was better for a while but now she is sick again."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "Idioms",
+          "defs": [
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "It might rain, but then again it might not."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "once more; another time;",
+              "examples": [
+                "Will you spell your name again, please?"
+              ]
+            },
+            {
+              "def": "in an additional case or instance;",
+              "examples": []
+            },
+            {
+              "def": "on the other hand:",
+              "examples": [
+                "It might happen, and again it might not."
+              ]
+            },
+            {
+              "def": "back;",
+              "examples": [
+                "to answer again."
+              ]
+            },
+            {
+              "def": "to the same place or person:",
+              "examples": [
+                "to return again."
+              ]
+            },
+            {
+              "def": " with frequent repetition;",
+              "examples": [
+                "They went over the same arguments again and again."
+              ]
+            },
+            {
+              "def": " twice as much:",
+              "examples": [
+                "She earns as much again as I do."
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en001899.mp3"
+    },
+    {
+      "word": "looking",
+      "phonemics": "",
+      "definitions": [
+        {
+          "class": "v.",
+          "defs": [
+            {
+              "def": "to turn one's eyes toward something or in some direction in order to see: ",
+              "examples": [
+                "[~ + at]I'm looking at this book.",
+                "[no object]She looked out the window."
+              ]
+            },
+            {
+              "def": " to use one's sight in seeking, searching, examining, watching, etc.:",
+              "examples": [
+                "[no object]to look through the papers."
+              ]
+            },
+            {
+              "def": " to appear to the eye as specified:",
+              "examples": [
+                "[~ + adjective]You look pale."
+              ]
+            },
+            {
+              "def": "to appear to the mind;",
+              "examples": [
+                "[~ + adjective]Things are looking pretty grim.",
+                "[~ + noun]He looked a perfect fool."
+              ]
+            },
+            {
+              "def": " to direct attention or consideration:",
+              "examples": [
+                "[~ + at]Let's look at the facts."
+              ]
+            },
+            {
+              "def": " to face or give a view:",
+              "examples": [
+                "[not: be + ~-ing;  no object]The room looks on the garden."
+              ]
+            },
+            {
+              "def": " to give (someone) a look:",
+              "examples": [
+                "[~ + object]Can you look me in the eye and say that?"
+              ]
+            },
+            {
+              "def": " to have an appearance appropriate to or that fits (one's age, circumstances, etc.):",
+              "examples": [
+                "[~ + object]began to look his age."
+              ]
+            },
+            {
+              "def": "(used in the imperative form, and sometimes followed by a word like \"who, what, when, where, how'' etc.) to observe or pay attention to: ",
+              "examples": [
+                "[~ + object]Now look what you've done! Look how beautifully he skates.",
+                "[no object]Look, I'm tired of this!",
+                "[~ + at]Look at what's happened."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "a babysitter to look after the kids."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Our leaders have to look ahead."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "looking back to his childhood.",
+                "started her own business and never looked back."
+              ]
+            },
+            {
+              "def": " or  ",
+              "examples": []
+            },
+            {
+              "def": " ",
+              "examples": [
+                "I've been looking for you.",
+                "I'll look for you at the reception."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "She's looking forward to working here."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The doctor looked in on her patient."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "The detective was looking into the kidnapping."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "She looks just like her father.",
+                "He looks like he's working.",
+                "Things look like they can't get much worse.",
+                "It looks like we'll be late."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "She looked on him as a son."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "Look out; here she comes."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "My boss was always looking out for me."
+              ]
+            },
+            {
+              "def": " to examine, esp. briefly: ",
+              "examples": [
+                "[~ + over + object]I looked over your term paper.",
+                "[~ + object + over]I looked it over."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "to look to the president for leadership.",
+                "We look to a brighter future for our children."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The business is looking up.",
+                "[~ + object + up]looking words up in the dictionary.",
+                "[~ + up + object]Don't look up every word.",
+                "[~ + up + object]to look up an old friend.",
+                "[~ + object + up]to look him up next time."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "A lot of people look up to you, so don't let them down."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "the act of looking:",
+              "examples": [
+                "Have a look at these figures."
+              ]
+            },
+            {
+              "def": "the way in which a person or thing appears;",
+              "examples": [
+                "the look of an honest man."
+              ]
+            },
+            {
+              "def": "fashion;",
+              "examples": [
+                "the latest look in furniture."
+              ]
+            },
+            {
+              "def": " ",
+              "examples": [
+                "We didn't like the looks of the place.",
+                "all looks and no brains."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.i.",
+          "defs": [
+            {
+              "def": "to turn one's eyes toward something or in some direction in order to see:",
+              "examples": [
+                "He looked toward the western horizon and saw the returning planes."
+              ]
+            },
+            {
+              "def": "to glance or gaze in a manner specified:",
+              "examples": [
+                "to look questioningly at a person."
+              ]
+            },
+            {
+              "def": "to use one's sight or vision in seeking, searching, examining, watching, etc.:",
+              "examples": [
+                "to look through the papers."
+              ]
+            },
+            {
+              "def": "to tend, as in bearing or significance:",
+              "examples": [
+                "Conditions look toward war."
+              ]
+            },
+            {
+              "def": "to appear or seem to the eye as specified:",
+              "examples": [
+                "to look pale."
+              ]
+            },
+            {
+              "def": "to appear or seem to the mind:",
+              "examples": [
+                "The case looks promising."
+              ]
+            },
+            {
+              "def": "to direct attention or consideration:",
+              "examples": [
+                "to look at the facts."
+              ]
+            },
+            {
+              "def": "to have an outlook or afford a view:",
+              "examples": [
+                "The window looks upon the street."
+              ]
+            },
+            {
+              "def": "to face or front:",
+              "examples": [
+                "The house looks to the east."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "v.t.",
+          "defs": [
+            {
+              "def": "to give (someone) a look:",
+              "examples": [
+                "He looked me straight in the eye."
+              ]
+            },
+            {
+              "def": "to have an appearance appropriate to or befitting (something):",
+              "examples": [
+                "She looked her age."
+              ]
+            },
+            {
+              "def": "to appear to be;",
+              "examples": [
+                "He looked a perfect fool, coming to the party a day late."
+              ]
+            },
+            {
+              "def": "to express or suggest by looks:",
+              "examples": [
+                "to look one's annoyance at a person."
+              ]
+            },
+            {
+              "def": "to bring, put, etc., by looks.",
+              "examples": []
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "She looked after him as he walked toward the train station.",
+                "to look after one's own interests.",
+                "to look after a child."
+              ]
+            },
+            {
+              "def": " to review past events;",
+              "examples": [
+                "When I look back on our school days, it seems as if they were a century ago."
+              ]
+            },
+            {
+              "def": " to look at someone with a furious, menacing expression:",
+              "examples": [
+                "I could see my partner looking daggers at me."
+              ]
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "They look down on all foreigners."
+              ]
+            },
+            {
+              "def": " to regard with an overbearing attitude of superiority, disdain, or censure:",
+              "examples": [
+                "The more advanced students really looked down their noses at the beginners."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "Columbus was looking for a shorter route to India when he discovered America.",
+                "I'll be looking for you at the reception."
+              ]
+            },
+            {
+              "def": " to anticipate with eagerness or pleasure:",
+              "examples": [
+                "I always look forward to your visits."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "Look in the jar and tell me if any cookies are left.",
+                "I'll look in some day next week."
+              ]
+            },
+            {
+              "def": " to inquire into;",
+              "examples": [
+                "The auditors are looking into the records to find the cause of the discrepancy."
+              ]
+            },
+            {
+              "def": " or  ",
+              "examples": [
+                "The crowd looked on at the street brawl.",
+                "They look upon gambling as sinful."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "From her office window, she could look out over the bustling city.",
+                "Look out, there are dangers ahead.",
+                "The room looks out on the garden."
+              ]
+            },
+            {
+              "def": " to take watchful care of;",
+              "examples": [
+                "He has to look out for his health."
+              ]
+            },
+            {
+              "def": " to examine, esp. briefly:",
+              "examples": [
+                "Will you please look over my report before I submit it?"
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "If you want to get ahead, you must look sharp.",
+                "You'd better look sharp! It's getting late."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "If you look to your left, you can see the Empire State Building.",
+                "Look to your own affairs and stay out of mine.",
+                "We look to the day when world peace will be a reality.",
+                "We look to the future and greater advances in science and technology."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "The other guests looked up as she entered the room.",
+                "Business is looking up.",
+                "Look up the answer in the encyclopedia.",
+                "to look up an old friend."
+              ]
+            },
+            {
+              "def": " to regard with admiration or respect;",
+              "examples": [
+                "A boy needs a father he can look up to."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "the act of looking:",
+              "examples": [
+                "a look of inquiry."
+              ]
+            },
+            {
+              "def": "a visual search or examination.",
+              "examples": []
+            },
+            {
+              "def": "the way in which a person or thing appears to the eye or to the mind;",
+              "examples": [
+                "He has the look of an honest man. The tablecloth has a cheap look."
+              ]
+            },
+            {
+              "def": "an expressive glance:",
+              "examples": [
+                "to give someone a sharp look."
+              ]
+            },
+            {
+              "def": " \n",
+              "examples": [
+                "to like the looks of a place."
+              ]
+            }
+          ]
+        }
+      ],
+      "url": ""
+    },
+    {
+      "word": "april",
+      "phonemics": "/ˈeɪprɪl/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": " the fourth month of the year, containing 30 days. ",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "the fourth month of the year, containing 30 days. ",
+              "examples": []
+            },
+            {
+              "def": "a female given name.",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en004066.mp3"
+    },
+    {
+      "word": "never",
+      "phonemics": "/ˈnɛvər/",
+      "definitions": [
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "not ever;",
+              "examples": [
+                "It never happened. He never knew what hit him."
+              ]
+            },
+            {
+              "def": "not at all;",
+              "examples": [
+                "This will never do."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "Idioms",
+          "defs": [
+            {
+              "def": "  ",
+              "examples": [
+                "Never mind about your mistake."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "adv.",
+          "defs": [
+            {
+              "def": "not ever;",
+              "examples": [
+                "Such an idea never occurred to me."
+              ]
+            },
+            {
+              "def": "not at all;",
+              "examples": [
+                "never mind; This will never do."
+              ]
+            },
+            {
+              "def": "to no extent or degree:",
+              "examples": [
+                "He was never the wiser for his experience."
+              ]
+            },
+            {
+              "def": " don't bother;",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en058088.mp3"
+    },
+    {
+      "word": "topic",
+      "phonemics": "/ˈtɒpɪk/",
+      "definitions": [
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a subject of discussion:",
+              "examples": [
+                "I've strayed off the topic."
+              ]
+            },
+            {
+              "def": "the subject of a speech or piece of writing:",
+              "examples": [
+                "Introduce your topic with a clear sentence and then give examples to support it."
+              ]
+            }
+          ]
+        },
+        {
+          "class": "n.",
+          "defs": [
+            {
+              "def": "a subject of conversation or discussion:",
+              "examples": [
+                "to provide a topic for discussion."
+              ]
+            },
+            {
+              "def": "the subject or theme of a discourse or of one of its parts.",
+              "examples": []
+            },
+            {
+              "def": " a general field of considerations from which arguments can be drawn.",
+              "examples": []
+            },
+            {
+              "def": "Also called  ",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "url": "https://www.wordreference.com/audio/en/uk/general/en090924.mp3"
     }
   ],
   "noDef": [
     "ebay",
     "dvd",
-    "website"
+    "website",
+    "usa",
+    "non"
   ]
 }
