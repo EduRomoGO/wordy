@@ -26,11 +26,11 @@ const getWordsInfo = words => {
     words.forEach(word => {
         if (isNotInDb(word)) {
             setTimeout(async () => {
-                console.log(`Start searching for word "${word}"`);
+                console.log(`--- Start searching for word "${word}" ---`);
                 try {
                     const msg = await getWordInfo(word);
                     processedWords++;
-                    console.log(`Number of processed words: ${processedWords}`);
+                    console.log(`Info: Number of processed words: ${processedWords}`);
                     console.log(msg);
                 } catch (error) {
                     console.log(error);
@@ -40,8 +40,8 @@ const getWordsInfo = words => {
             timeoutAcc += getWaitSeconds() * 1000;
         } else {
             inDb++;
-            console.log(`${inDb} words already in db`);
-            console.log(`"${word}" is already present in db`);
+            console.log(`Info: ${inDb} words already in db`);
+            console.log(`Info: Word "${word}" is already present in db`);
         }
     });
 };

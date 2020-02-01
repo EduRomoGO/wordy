@@ -46,7 +46,7 @@ const scrap = (html, word) => {
         if (audioNode.children().length > 0) {
             return audioNode.children()[0].attribs.src;
         } else {
-            console.log(`Audio node for the word "${word}" has no children`);
+            return '';
         }
     };
 
@@ -70,7 +70,7 @@ const scrap = (html, word) => {
                 }).join('').trim();
             }
         } else {
-            console.log(`Word ${word} doesnt have phonemics`);
+            console.log(`Anomaly: Word "${word}" doesn't have phonemics`);
 
             return '';
         }
