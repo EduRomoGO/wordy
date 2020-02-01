@@ -20,6 +20,7 @@ const isNotInDb = word => {
 const getWordsInfo = words => {
     let timeoutAcc = 0;
     let inDb = 0;
+    let processedWords = 0;
 
     // Make sure that calls are sequential (one every 20-30 secs) to avoid penalizations from wr
     words.forEach(word => {
@@ -28,6 +29,8 @@ const getWordsInfo = words => {
                 console.log(`Start searching for word "${word}"`);
                 try {
                     const msg = await getWordInfo(word);
+                    processedWords++;
+                    console.log(`Number of processed words: ${processedWords}`);
                     console.log(msg);
                 } catch (error) {
                     console.log(error);
@@ -44,6 +47,6 @@ const getWordsInfo = words => {
 };
 
 // const words = getWrongWords();
-const words = allWords.slice(100, 500);
+const words = allWords.slice(500, 600);
 
 getWordsInfo(words);
