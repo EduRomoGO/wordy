@@ -47,7 +47,7 @@ const getWordsInfo = words => {
 };
 
 // const words = getWrongWords();
-const words = allWords.slice(2200, 2800);
+const words = allWords.slice(2400, 2600);
 
 getWordsInfo(words);
 
