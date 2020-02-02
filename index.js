@@ -50,27 +50,3 @@ const getWordsInfo = words => {
 const words = allWords.slice(2400, 2600);
 
 getWordsInfo(words);
-
-
-
-function run () {
-    const soundList = [];
-    const createId = i => {
-        if (i < 11) {
-            return `sym_000${i}`;
-        } else {
-            return `sym_00${i}`;
-        }
-    };
-
-    for (let i = 0; i < 100; i++) {
-        const soundId = createId(i);
-
-        if (document.querySelector(`#${soundId}`)) {
-            soundList.push(soundId);
-        }
-    }
-
-    return soundList;
-}
-
