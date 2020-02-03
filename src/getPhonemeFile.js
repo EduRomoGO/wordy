@@ -3,12 +3,12 @@ var fs = require('fs');
 
 const getAudioFile = ({ title, url }) => {
         let file = fs.createWriteStream(`./db/phonemesFiles/${title}.mp3`);
-                
+        
         http.get(url, function(response) {
             response.pipe(file);
             
             file.on('finish', function() {
-                console.log(`Success: Word "${word}" audio file has been created`);
+                console.log(`Success: Word "${title}" audio file has been created`);
                 file.close();
             });
         });
