@@ -38,11 +38,11 @@ const getWordsInfo = words => {
             }, timeoutAcc);
 
             // Wait a bit longer each 25 words so WR dont get timeout
-            if (processedWords % 25 === 0) {
-                timeoutAcc += 60 * 1000;
-            } else {
+            // if (processedWords % 25 === 0) {
+            //     timeoutAcc += 60 * 1000;
+            // } else {
                 timeoutAcc += getWaitSeconds() * 1000;
-            }
+            // }
         } else {
             inDb++;
             console.log(`Info: ${inDb} words already in db`);
@@ -52,6 +52,6 @@ const getWordsInfo = words => {
 };
 
 // const words = getWrongWords();
-const words = allWords.slice(3500, 3800);
+const words = allWords.slice(3800, 4200);
 
 getWordsInfo(words);
