@@ -52,7 +52,6 @@ const getWordsInfo = words => {
 };
 
 // const words = getWrongWords();
-const words = ['listening'];
-// const words = allWords.slice(5900, 6300);
+const words = allWords.slice(5900, 6300);
 
 getWordsInfo(words);
