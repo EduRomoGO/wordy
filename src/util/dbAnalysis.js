@@ -48,6 +48,8 @@ const results = performAnalysis();
 const getWrongWords = () => Object.keys(results);
 
 // console.log(results);
+// console.log(Object.keys(results).filter(key => results[key] === 'missing-audio-url'));
+// console.log(Object.keys(results).filter(key => results[key] === 'missing-audio-url').length);
 // console.log(Object.keys(results).length);
 
 module.exports = { getWrongWords };
